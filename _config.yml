@@ -27,25 +27,22 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at The Hong Kong Polytechnic University"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : "The Hong Kong PolyU"
   uri              : # URL
   email            : "tong.nie@connect.polyu.hk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=eMW6EsoAAAAJ&hl=zh-CN"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  Github           :  "https://github.com/tongnie"
+  orcid            : "https://orcid.org/0000-0001-8403-6622"
+  researchgate     : "https://www.researchgate.net/profile/Tong-Nie-5?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
