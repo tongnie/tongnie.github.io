@@ -53,7 +53,11 @@ In addition to transportation, I'm also interested in large vision/language mode
 - 📢 Mar. 2025: I have two papers accepted by ICLR 2025 workshops. See you in Singapore!
 - 📢 Jan. 2025: Our work received a lot of inspiring feedback from TRBAM 2025 in D.C. Hope to see you all next year!
 - 📢 Jan. 2025: Our latest research on [meta learning-based INRs for cross-city generalization](https://doi.org/10.48550/arXiv.2501.11306) and [LLM-enhanced adversarial scenario generation](https://doi.org/10.48550/arXiv.2501.15850) are preprinted on arXiv! 🔥
-- 📢 Dec. 2025:
+- 📢 Dec. 2024: Our LLM2Geovec was accpeted by AAAI 2025 main track! We have received a lot of insightful feedback and suggestions from reviewers.
+- 📢 Nov. 2024: I received a funding from the National Natural Science Foundation of China (国家自然科学基金) as the principal investigator (PI). A milestone in my PhD journey!! 🎉🎉
+- 📢 Oct. 2024: Our paper on MLP-Mixer for traffic forecasting was accepted at IEEE TITS! 🎉
+- 📢 Sep. 2024: Our paper on spatiotemporal implicit neural representations was accepted at Transportation Research Part C! 🎉
+- 📢 Aug. 2024: I have attended KDD'24 at Barcelona and TRC-30 at Crete. We have a wonderful travel and enjoy sharing our research with the community!
   
 </div>
 
