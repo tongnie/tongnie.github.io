@@ -47,21 +47,22 @@ In addition to transportation, I'm also interested in large vision/language mode
 📣 Recent News
 ======
 <div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
-  
-- 📢 Apr. 2025: Our latest survey paper on LLMs for transportation is preprinted on [arXiv](https://arxiv.org/abs/2503.21411)!🔥
-- 📢 Mar. 2025: Our paper on LLM-enhanced demand estimation was accepted by Transportation Research Part E!🎉
-- 📢 Mar. 2025: I have two papers accepted by ICLR 2025 workshops. Look forward to see you in Singapore!
-- 📢 Jan. 2025: Our work received a lot of inspiring feedback from TRBAM 2025 in D.C. Hope to see you all next year!
-- 📢 Jan. 2025: Our latest research on [meta learning-based INRs for cross-city generalization](https://doi.org/10.48550/arXiv.2501.11306) and [LLM-enhanced adversarial scenario generation](https://doi.org/10.48550/arXiv.2501.15850) are preprinted on arXiv! 🔥
-- 📢 Dec. 2024: Our LLM2Geovec was accpeted by AAAI 2025 main track! We have received a lot of insightful feedback and suggestions from reviewers.
-- 📢 Nov. 2024: I received a funding from the National Natural Science Foundation of China (国家自然科学基金) as the principal investigator (PI). A milestone in my PhD journey!! 🎉🎉
-- 📢 Oct. 2024: Our paper on MLP-Mixer for traffic forecasting was accepted at IEEE TITS! 🎉
-- 📢 Sep. 2024: Our paper on spatiotemporal implicit neural representations was accepted at Transportation Research Part C! 🎉
-- 📢 Aug. 2024: I have attended KDD'24 at Barcelona and TRC-30 at Crete. We have a wonderful travel and enjoy sharing our research with the community!
-- 📢 July. 2024: Our paper on low-rank channel adaptation was accepted by CIKM 2024 (≈ 23% acceptance rate)!
-- 📢 May. 2024: Our ImputeFormer was accepted by KDD 2024 (≈ 20% acceptance rate) by oral presentation! 🎉🎉
-  
+<ul>
+  <li>📢 Apr. 2025: Our latest survey paper on LLMs for transportation is preprinted on <a href="https://arxiv.org/abs/2503.21411">arXiv</a>!🔥</li>
+  <li>📢 Mar. 2025: Our paper on LLM-enhanced demand estimation was accepted by Transportation Research Part E!🎉</li>
+  <li>📢 Mar. 2025: I have two papers accepted by ICLR 2025 workshops. Look forward to see you in Singapore!</li>
+  <li>📢 Jan. 2025: Our work received a lot of inspiring feedback from TRBAM 2025 in D.C. Hope to see you all next year!</li>
+  <li>📢 Jan. 2025: Our latest research on <a href="https://doi.org/10.48550/arXiv.2501.11306">meta learning-based INRs for cross-city generalization</a> and <a href="https://doi.org/10.48550/arXiv.2501.15850">LLM-enhanced adversarial scenario generation</a> are preprinted on arXiv! 🔥</li>
+  <li>📢 Dec. 2024: Our LLM2Geovec was accpeted by AAAI 2025 main track (≈ 23% acceptance rate)! We have received a lot of insightful feedback and suggestions from reviewers.</li>
+  <li>📢 Nov. 2024: I received a funding from the National Natural Science Foundation of China (国家自然科学基金) as the principal investigator (PI). A milestone in my PhD journey!! 🎉🎉</li>
+  <li>📢 Oct. 2024: Our paper on MLP-Mixer for traffic forecasting was accepted at IEEE TITS! 🎉</li>
+  <li>📢 Sep. 2024: Our paper on spatiotemporal implicit neural representations was accepted at Transportation Research Part C! 🎉</li>
+  <li>📢 Aug. 2024: I have attended KDD'24 at Barcelona and TRC-30 at Crete. We have a wonderful travel and enjoy sharing our research with the community!</li>
+  <li>📢 July. 2024: Our paper on low-rank channel adaptation was accepted by CIKM 2024 (≈ 23% acceptance rate)!</li>
+  <li>📢 May. 2024: Our ImputeFormer was accepted by KDD 2024 (≈ 20% acceptance rate) by oral presentation! 🎉🎉</li>
+</ul>
 </div>
+
 
 🗂️ Research projects
 ======
@@ -69,5 +70,5 @@ In addition to transportation, I'm also interested in large vision/language mode
 
 📧 Reach out to me
 ======
-I'm happy to discuss and exchange ideas. Feel free to contact me if you are interested in my research or would like to collaborate.
+I'm happy to discuss and exchange ideas. Feel free to contact me (tong[dot]nie[at]connect[dot]polyu[dot]hk, nietong[at]tongji[dot]edu[dot]cn) if you are interested in my research or would like to collaborate.
 
