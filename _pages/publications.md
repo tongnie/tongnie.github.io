@@ -18,7 +18,7 @@ Contributions.)
 
 ## Transportation Journals
 
-<div class='paper-box'><div class='paper-box-image'><img src='./images/LLM4TR.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='https://github.com/tongnie/tongnie.github.io/tree/master/images/LLM4TR.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**
