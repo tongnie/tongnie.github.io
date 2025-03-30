@@ -46,7 +46,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 
 📣 Recent News
 ======
-<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
+<div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
   <li>📢 Apr. 2025: Our latest survey paper on LLMs for transportation is preprinted on <a href="https://arxiv.org/abs/2503.21411">arXiv</a>!🔥</li>
   <li>📢 Mar. 2025: Our paper on LLM-enhanced demand estimation was accepted by Transportation Research Part E!🎉</li>
