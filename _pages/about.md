@@ -33,7 +33,7 @@ My research focuses on developing learning-based solutions to advance the sensin
   
 From a micro perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
 
-In addition to transportation, I'm also interested in urban computing, sustainability science, AI for social good applications.
+In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 
 
 📣 Recent News
