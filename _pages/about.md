@@ -14,21 +14,21 @@ I'm now conducting research with the following labs:
 
 My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a macro perspective, I have developed: 
 
-- **(1) Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and location-wise traffic flow estimation:
+- **Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and location-wise traffic flow estimation:
   - [Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns](https://doi.org/10.1016/j.trc.2022.103737) (TRC 2022)
   - [Correlating sparse sensing for large-scale traffic speed estimation: A Laplacian-enhanced low-rank tensor kriging approach](https://doi.org/10.1016/j.trc.2023.104190) (TRC 2023)
     
-- **(2) Generalizable graph neural networks and Transformers**, e.g., Transformers combined with the graph inductive bias:
+- **Generalizable graph neural networks and Transformers**, e.g., Transformers combined with the graph inductive bias:
   - [Towards better traffic volume estimation: Jointly addressing the underdetermination and nonequilibrium problems with correlation-adaptive GNNs](https://doi.org/10.1016/j.trc.2023.104402) (TRC 2023)
   - [ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation](https://doi.org/10.1145/3637528.3671751) (KDD 2024)
   
-- **(3) Simple-yet-efficient models for large-scale time series forecasting**, e.g., MLP-Mixers, Low-rank channel mixing, and lightweight graph Transformers:
+- **Simple-yet-efficient models for large-scale time series forecasting**, e.g., MLP-Mixers, Low-rank channel mixing, and lightweight graph Transformers:
   - a
   -   
 
-- **(4) Implicit neural representations (INRs)**,
+- **Implicit neural representations (INRs)**,
 
-- **(5) Location-based spatiotemporal modeling**,
+- **Location-based spatiotemporal modeling**,
 
   
 From a micro perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
