@@ -21,18 +21,27 @@ My research focuses on developing learning-based solutions to advance the sensin
   - [ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation](https://doi.org/10.1145/3637528.3671751) (KDD 2024)
   
 - **Simple-yet-efficient models for large-scale time series forecasting**, e.g., MLP-Mixers, Low-rank channel mixing, and lightweight graph Transformers:
-  - a
-  -   
+  - [Channel-Aware Low-Rank Adaptation in Time Series Forecasting](https://doi.org/10.1145/3627673.3679884) (CIKM 2024)
+  - [Contextualizing MLP-Mixers Spatiotemporally for Urban Traffic Data Forecast at Scale](https://doi.org/10.1109/TITS.2024.3491754) (IEEE TITS 2024)
 
-- **Implicit neural representations (INRs)**,
+- **Implicit neural representations (INRs) for continuous spatiotemporal modeling**, e.g., meta learning based INRs:
+  - [Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner](https://doi.org/10.1016/j.trc.2024.104890) (TRC 2024)
+  - [Collaborative imputation of urban time series through cross-city meta-learning](https://doi.org/10.48550/arXiv.2501.11306) (ICLR 2025 workshop)
 
 - **Location-based spatiotemporal modeling**,
-
+ - [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](https://doi.org/10.1016/j.tre.2025.104075) (TRE 2025)
   
 From a micro perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
+- **Adversarial traffic scenario generation with LLMs**
+   - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://doi.org/10.48550/arXiv.2501.15850)
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
-
+- **Geospatial AI**
+  - [Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning](https://doi.org/10.48550/arXiv.2408.12116) (AAAI 2025)
+- **Sustainability science**
+  - Large Language Models as a New Modality for Earch Data Monitoring (ICLR 2025 workshop on tackling climate change with machine learning)
+- **Large Language Models**
+- [Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap](https://arxiv.org/abs/2503.21411)
 
 📣 Recent News
 ======
