@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 My name is Tong Nie (聂通 in Chinese). I'm currently a third-year PhD student at both The Hong Kong Polytechnic University and Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Dr. Wei Ma](http://weima171.com/). My PhD research project was conducted under the support of the [PolyU Presidential PhD Fellowship Scheme](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/), and was funded by the National Natural Science Foundation of China (NSFC). Before joining PolyU, I earned my B.S. (2022) in Civil Engineering at Tongji University, Shanghai, China.
+👋 My name is Tong Nie (聂通 in Chinese). I'm currently a third-year PhD student at both The Hong Kong Polytechnic University and Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Dr. Wei Ma](http://weima171.com/). My PhD research project was conducted under the support of the [PolyU Presidential PhD Fellowship Scheme](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/), and was funded by the National Natural Science Foundation of China (NSFC). Prior to joining PolyU, I earned my B.S. (2022) in Civil Engineering at Tongji University, Shanghai, China.
 I'm now conducting research with the following labs: 
 - [PolyU Mobility AI Lab](http://polyu-mobility-ai-lab.com/)
 - [TOPS](https://tops.tongji.edu.cn/)
