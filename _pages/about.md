@@ -12,25 +12,34 @@ I'm now conducting research with the following labs:
 - [PolyU Mobility AI Lab](http://polyu-mobility-ai-lab.com/)
 - [TOPS](https://tops.tongji.edu.cn/)
 
-My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a macro perspective, I have developed: **(1) Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and location-wise traffic flow estimation; **(2) Generalizable graph neural networks and Transformers for sparse sensing of traffic data**, **(3) Simple-yet-efficient models for large-scale time series forecasting**, e.g., MLP-Mixers, Low-rank channel mixing, and lightweight graph Transformers.
-From a micro perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems.
+My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a macro perspective, I have developed: 
+
+- **(1) Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and location-wise traffic flow estimation:
+  - [Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns](https://doi.org/10.1016/j.trc.2022.103737) (TRC 2022)
+  - [Correlating sparse sensing for large-scale traffic speed estimation: A Laplacian-enhanced low-rank tensor kriging approach](https://doi.org/10.1016/j.trc.2023.104190) (TRC 2023)
+    
+- **(2) Generalizable graph neural networks and Transformers**, e.g., Transformers combined with the graph inductive bias:
+  - [Towards better traffic volume estimation: Jointly addressing the underdetermination and nonequilibrium problems with correlation-adaptive GNNs](https://doi.org/10.1016/j.trc.2023.104402) (TRC 2023)
+  - [ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation](https://doi.org/10.1145/3637528.3671751) (KDD 2024)
+  
+- **(3) Simple-yet-efficient models for large-scale time series forecasting**, e.g., MLP-Mixers, Low-rank channel mixing, and lightweight graph Transformers:
+  - a
+  -   
+
+- **(4) Implicit neural representations (INRs)**,
+
+- **(5) Location-based spatiotemporal modeling**,
+
+  
+From a micro perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
 
 In addition to transportation, I'm also interested in urban computing, sustainability science, AI for social good applications.
 
-Selected publications
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-News
+📣 Recent News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 📢 April 2025:  Our xx is preprinted on arXiv🔥
+- 📢 March 2025:  Our paper on xxx was accepted by  🎉
 
 Site-wide configuration
 ------
