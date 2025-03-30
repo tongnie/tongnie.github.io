@@ -14,23 +14,23 @@ I'm now conducting research with the [PolyU Mobility AI Lab](http://polyu-mobili
 My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a **macro** perspective, I have developed: 
 
 - **Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and sensor-wise traffic flow estimation:
-  - [Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns](https://doi.org/10.1016/j.trc.2022.103737) (TRC 2022)
-  - [Correlating sparse sensing for large-scale traffic speed estimation: A Laplacian-enhanced low-rank tensor kriging approach](https://doi.org/10.1016/j.trc.2023.104190) (TRC 2023)
+  - [Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns](https://doi.org/10.1016/j.trc.2022.103737) (**TRC 2022**)
+  - [Correlating sparse sensing for large-scale traffic speed estimation: A Laplacian-enhanced low-rank tensor kriging approach](https://doi.org/10.1016/j.trc.2023.104190) (**TRC 2023**)
     
 - **Generalizable graph neural networks and Transformers**, e.g., Transformers combined with the graph inductive bias:
-  - [Towards better traffic volume estimation: Jointly addressing the underdetermination and nonequilibrium problems with correlation-adaptive GNNs](https://doi.org/10.1016/j.trc.2023.104402) (TRC 2023)
-  - [ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation](https://doi.org/10.1145/3637528.3671751) (KDD 2024)
+  - [Towards better traffic volume estimation: Jointly addressing the underdetermination and nonequilibrium problems with correlation-adaptive GNNs](https://doi.org/10.1016/j.trc.2023.104402) (**TRC 2023**)
+  - [ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation](https://doi.org/10.1145/3637528.3671751) (**KDD 2024**)
   
 - **Simple-yet-efficient models for large-scale time series forecasting**, e.g., MLP-Mixers, Low-rank channel mixing, and lightweight graph Transformers:
-  - [Channel-Aware Low-Rank Adaptation in Time Series Forecasting](https://doi.org/10.1145/3627673.3679884) (CIKM 2024)
-  - [Contextualizing MLP-Mixers Spatiotemporally for Urban Traffic Data Forecast at Scale](https://doi.org/10.1109/TITS.2024.3491754) (IEEE TITS 2024)
+  - [Channel-Aware Low-Rank Adaptation in Time Series Forecasting](https://doi.org/10.1145/3627673.3679884) (**CIKM 2024**)
+  - [Contextualizing MLP-Mixers Spatiotemporally for Urban Traffic Data Forecast at Scale](https://doi.org/10.1109/TITS.2024.3491754) (**IEEE TITS 2024**)
 
 - **Implicit neural representations (INRs) for continuous spatiotemporal modeling**, e.g., meta learning based INRs:
-  - [Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner](https://doi.org/10.1016/j.trc.2024.104890) (TRC 2024)
-  - [Collaborative imputation of urban time series through cross-city meta-learning](https://doi.org/10.48550/arXiv.2501.11306) (ICLR 2025 workshop on weight space learning)
+  - [Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner](https://doi.org/10.1016/j.trc.2024.104890) (**TRC 2024**)
+  - [Collaborative imputation of urban time series through cross-city meta-learning](https://doi.org/10.48550/arXiv.2501.11306) (**ICLR 2025 workshop on weight space learning**)
 
 - **Location-based spatiotemporal modeling**:
-  - [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](https://doi.org/10.1016/j.tre.2025.104075) (TRE 2025)
+  - [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](https://doi.org/10.1016/j.tre.2025.104075) (**TRE 2025**)
   
 From a **micro** perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
 - **Adversarial traffic scenario generation with LLMs**
@@ -38,7 +38,7 @@ From a **micro** perspective, I'm currently trying to develop models that learn 
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 - **Geospatial AI**:
-  - [Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning](https://doi.org/10.48550/arXiv.2408.12116) (AAAI 2025)
+  - [Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning](https://doi.org/10.48550/arXiv.2408.12116) (**AAAI 2025**)
 - **Sustainability science**:
   - Large Language Models as a New Modality for Earch Data Monitoring (ICLR 2025 workshop on tackling climate change with machine learning)
 - **Large Language Models**:
