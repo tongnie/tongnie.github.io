@@ -15,7 +15,7 @@ Contributions.)
 
 ## Preprint/Submitted manuscripts
 
-<div class='paper-box'><div class='paper-box-image'><img src='https://github.com/tongnie/tongnie.github.io/master/images/LLM4TR.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src="../images/LLM4TR.png" alt="sym" width="20%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**
@@ -26,7 +26,8 @@ Contributions.)
 
 [**Paper**](https://arxiv.org/abs/2503.21411) \| [**Project**](https://github.com/tongnie/awesome-llm4tr)
 
-- *TL;DL*: We introduce the first systematic survey of large language models for transportation from the methodological perspective. 
+- *TL;DL*: We introduce the first systematic survey of large language models for transportation from the methodological perspective.
+  
 </div>
 </div>
 
