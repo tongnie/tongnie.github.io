@@ -46,13 +46,15 @@ In addition to transportation, I'm also interested in large vision/language mode
 
 📣 Recent News
 ======
-<div style="max-height: 150px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
+<div style="max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
+  
 - 📢 Apr. 2025: Our latest survey paper on LLMs for transportation is preprinted on [arXiv](https://arxiv.org/abs/2503.21411)!🔥
 - 📢 Mar. 2025: Our paper on LLM-enhanced demand estimation was accepted by Transportation Research Part E!🎉
 - 📢 Mar. 2025: I have two papers accepted by ICLR 2025 workshops. See you in Singapore!
 - 📢 Jan. 2025: Our work received a lot of inspiring feedback from TRBAM 2025 in D.C. Hope to see you all next year!
 - 📢 Jan. 2025: Our latest research on [meta learning-based INRs for cross-city generalization](https://doi.org/10.48550/arXiv.2501.11306) and [LLM-enhanced adversarial scenario generation](https://doi.org/10.48550/arXiv.2501.15850) are preprinted on arXiv! 🔥
-- 📢 Dec. 2025: 
+- 📢 Dec. 2025:
+  
 </div>
 
 🗂️ Research projects
