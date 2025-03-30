@@ -12,7 +12,7 @@ I'm now conducting research with the [PolyU Mobility AI Lab](http://polyu-mobili
 
 My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a macro perspective, I have developed: 
 
-- **Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and location-wise traffic flow estimation:
+- **Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and sensor-wise traffic flow estimation:
   - [Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns](https://doi.org/10.1016/j.trc.2022.103737) (TRC 2022)
   - [Correlating sparse sensing for large-scale traffic speed estimation: A Laplacian-enhanced low-rank tensor kriging approach](https://doi.org/10.1016/j.trc.2023.104190) (TRC 2023)
     
