@@ -26,7 +26,7 @@ My research focuses on developing learning-based solutions to advance the sensin
 
 - **Implicit neural representations (INRs) for continuous spatiotemporal modeling**, e.g., meta learning based INRs:
   - [Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner](https://doi.org/10.1016/j.trc.2024.104890) (TRC 2024)
-  - [Collaborative imputation of urban time series through cross-city meta-learning](https://doi.org/10.48550/arXiv.2501.11306) (ICLR 2025 workshop)
+  - [Collaborative imputation of urban time series through cross-city meta-learning](https://doi.org/10.48550/arXiv.2501.11306) (ICLR 2025 workshop on weight space learning)
 
 - **Location-based spatiotemporal modeling**:
   - [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](https://doi.org/10.1016/j.tre.2025.104075) (TRE 2025)
