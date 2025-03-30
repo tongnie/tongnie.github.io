@@ -11,7 +11,7 @@ layout: archive
 👋 My name is Tong Nie (聂通 in Chinese). I'm currently a third-year PhD student at both The Hong Kong Polytechnic University and Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Dr. Wei Ma](http://weima171.com/). My PhD research project was conducted under the support of the [PolyU Presidential PhD Fellowship Scheme](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/), and was funded by the National Natural Science Foundation of China (NSFC). Prior to joining PolyU, I earned my B.S. (2022) in Civil Engineering at Tongji University, Shanghai, China.
 I'm now conducting research with the [PolyU Mobility AI Lab](http://polyu-mobility-ai-lab.com/) and [TOPS](https://tops.tongji.edu.cn/).
 
-My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a macro perspective, I have developed: 
+My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a **macro** perspective, I have developed: 
 
 - **Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and sensor-wise traffic flow estimation:
   - [Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns](https://doi.org/10.1016/j.trc.2022.103737) (TRC 2022)
@@ -32,7 +32,7 @@ My research focuses on developing learning-based solutions to advance the sensin
 - **Location-based spatiotemporal modeling**:
   - [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](https://doi.org/10.1016/j.tre.2025.104075) (TRE 2025)
   
-From a micro perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
+From a **micro** perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
 - **Adversarial traffic scenario generation with LLMs**
    - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://doi.org/10.48550/arXiv.2501.15850)
 
@@ -46,15 +46,18 @@ In addition to transportation, I'm also interested in large vision/language mode
 
 📣 Recent News
 ======
-- 📢 April 2025:  Our xx is preprinted on arXiv🔥
-- 📢 March 2025:  Our paper on xxx was accepted by  🎉
+- 📢 Apr. 2025: Our latest survey paper on LLMs for transportation is preprinted on [arXiv](https://arxiv.org/abs/2503.21411)!🔥
+- 📢 Mar. 2025: Our paper on LLM-enhanced demand estimation was accepted by Transportation Research Part E!🎉
+- 📢 Mar. 2025: I have two papers accepted by ICLR 2025 workshops. See you in Singapore!
+- 📢 Feb. 2025:
+- 📢 Jan. 2025: Our work received a lot of inspiring feedback from TRBAM 2025 in D.C. Hope to see you all next year!
+- 📢 Jan. 2025: Our latest research on meta learning-based INRs for cross-city generalization is preprinted on [arXiv](https://doi.org/10.48550/arXiv.2501.11306)! 🔥
 
 🗂️ Research projects
 ======
 - **Automated Generation of Autonomous Driving Test Scenarios and Adversarial Testing Methods**, 2025.1-2027.12, 300,000 CNY, National Natural Science Foundation of China’s Fundamental Research Program for Young Students.
 
-Create content & metadata
+📧 Reach out to me
 ======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
+I'm happy to discuss and exchange ideas. Feel free to contact me if you are interested in my research or would like to collaborate.
 
