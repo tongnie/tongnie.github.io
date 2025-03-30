@@ -15,8 +15,11 @@ Contributions.)
 
 ## Preprint/Submitted manuscripts
 
-<div class='paper-box'><div class='paper-box-image'><img src="../images/LLM4TR.png" alt="sym" width="20%"></div>
-<div class='paper-box-text' markdown="1">
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px; flex: 0 0 20%;">
+    <img src="../images/LLM4TR.png" alt="sym" style="width: 30%;">
+  </div>
+  <div style="flex: 1;">
 
 **Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**
 
