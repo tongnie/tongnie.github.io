@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-## LLM-enhanced Gepspatial Representation and Traffic Management
+## LLM-enhanced Geospatial Representation and Traffic Management
 _Feb. 28, 2025, Block Z, CEE, PolyU Campus_ \
 Research Seminar Presentation.
 
