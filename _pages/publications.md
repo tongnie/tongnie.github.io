@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-📝 This list is not frequently updated. Please see my [Google Scholar](https://scholar.google.com/citations?user=eMW6EsoAAAAJ&hl=zh-CN) for the full record and recent update. (*Corresponding Author, =Equal Contributions.)
+This list is not frequently updated. Please see my [Google Scholar](https://scholar.google.com/citations?user=eMW6EsoAAAAJ&hl=zh-CN) for the full record and recent update. (*Corresponding Author, =Equal Contributions.)
 
 
 ## Preprint/Submitted Manuscript
@@ -30,5 +30,10 @@ author_profile: true
 
 ## Journal Publications
 
+***Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach***, **Tong Nie**, Junlin He, Yuewen Mei, Guoyang Qin, Guilong Li, Jian Sun\*, Wei Ma\*. *Transportation Research Part E: Logistics and Transportation Reviewt*, 2025. | [[Paper](https://doi.org/10.1016/j.tre.2025.104075)] | [[Project](https://github.com/tongnie/IMPEL)]
+
+  <img src="../images/LLM4Delivery" alt="sym" width="40%">
+  
+  *TL;DR*: A transferable traffic demand predictor and estimator enhanced by LLM-based encoding and graphs.
 
 ## CS/AI conference Proceedings
