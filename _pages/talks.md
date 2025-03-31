@@ -49,6 +49,6 @@ Conference Podium Presentation @ The 30th ACM SIGKDD Conference on Knowledge Dis
 
 
 <center>
-  <img src="../images/459e4d0791b99dd0776050a9da26ceb.jpg" width="50%" />
-  <img src="../images/28ccde17a68b8df37fc43ce89c91b96.jpg" width="50%" />
+  <img src="../images/459e4d0791b99dd0776050a9da26ceb.jpg" width="45%" />
+  <img src="../images/28ccde17a68b8df37fc43ce89c91b96.jpg" width="45%" />
 </center>
