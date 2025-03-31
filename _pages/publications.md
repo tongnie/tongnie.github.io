@@ -24,7 +24,7 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao. *Arxiv Preprint* / *ICLR Workshop on Weight Space Learning*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
 
-  <img src="../images/MetaINR" alt="sym" width="40%">
+  <img src="../images/MetaINR.png" alt="sym" width="40%">
   
   *TL;DR*: We introduce a cross-city collaborative time series imputation method based on meta learning implicit neural representations.
 
@@ -32,8 +32,14 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ***Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach***, **Tong Nie**, Junlin He, Yuewen Mei, Guoyang Qin, Guilong Li, Jian Sun\*, Wei Ma\*. *Transportation Research Part E: Logistics and Transportation Reviewt*, 2025. | [[Paper](https://doi.org/10.1016/j.tre.2025.104075)] | [[Project](https://github.com/tongnie/IMPEL)]
 
-  <img src="../images/LLM4Delivery" alt="sym" width="40%">
+  <img src="../images/LLM4Delivery.png" alt="sym" width="40%">
   
   *TL;DR*: A transferable traffic demand predictor and estimator enhanced by LLM-based encoding and graphs.
 
 ## CS/AI conference Proceedings
+
+***Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning***, Junlin He(=), **Tong Nie(=)**, Wei Ma\*. *AAAI*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2408.12116)] | [[Project](https://github.com/Umaruchain/LLMGeovec)]
+
+  <img src="../images/LLM2Geovec.png" alt="sym" width="40%">
+  
+  *TL;DR*: A training-free method to extract generic geospatial encoding from LLMs that can enhance various downstream predictive learning tasks.
