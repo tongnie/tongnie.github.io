@@ -21,7 +21,7 @@ main:
     url: /services/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
     
   - title: "CV"
     url: /cv/
