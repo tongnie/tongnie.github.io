@@ -18,7 +18,7 @@ author_profile: true
 
 ## Reviewer (peer-reviewed journals and conferences)
 - IEEE Transactions on Intelligent Transportation Systems
-- Transportation Research Part C
+- Transportation Research Part C: Emerging Technologies
 - IEEE Transactions on Knowledge and Data Engineering
 - Communications in Transportation Research
 - ACML 2025, 2024
