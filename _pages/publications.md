@@ -30,16 +30,45 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ## Journal Publications
 
-***Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach***, **Tong Nie**, Junlin He, Yuewen Mei, Guoyang Qin, Guilong Li, Jian Sun\*, Wei Ma\*. *Transportation Research Part E: Logistics and Transportation Reviewt*, 2025. | [[Paper](https://doi.org/10.1016/j.tre.2025.104075)] | [[Project](https://github.com/tongnie/IMPEL)]
+***Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach***, **Tong Nie**, Junlin He, Yuewen Mei, Guoyang Qin, Guilong Li, Jian Sun\*, Wei Ma\*. *Transportation Research Part E: Logistics and Transportation Review*, 2025. | [[Paper](https://doi.org/10.1016/j.tre.2025.104075)] | [[Code](https://github.com/tongnie/IMPEL)]
 
   <img src="../images/LLM4Delivery.png" alt="sym" width="40%">
   
   *TL;DR*: A transferable traffic demand predictor and estimator enhanced by LLM-based encoding and graphs.
 
+***Contextualizing MLP-Mixers Spatiotemporally for Urban Traffic Data Forecast at Scale***, **Tong Nie(=)**, Guoyang Qin(=), Lijun Sun, Wei Ma, Yu Mei, Jian Sun\*. *IEEE Transactions on Intelligent Transportation Systems*, 2025. | [[Paper](https://doi.org/10.1109/TITS.2024.3491754)] | 
+
+  <img src="../images/MLPMixer.png" alt="sym" width="40%">
+  
+  *TL;DR*: A simple-yet-effective MLP-based architecture for large-scale urban data forecasting.
+
+
+***Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner***, **Tong Nie**, Guoyang Qin, Wei Ma\*, Jian Sun\*. *Transportation Research Part C: Emerging Technologies*, 2025. | [[Paper](https://doi.org/10.1016/j.trc.2024.104890)] | [[Code](https://github.com/tongnie/traffic_dynamics)]
+
+  <img src="../images/STINR.png" alt="sym" width="40%">
+  
+  *TL;DR*: A new paradigm for spatiotemporal traffic data learning using implicit neural representations.
+
+
 ## CS/AI conference Proceedings
 
-***Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning***, Junlin He(=), **Tong Nie(=)**, Wei Ma\*. *AAAI*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2408.12116)] | [[Project](https://github.com/Umaruchain/LLMGeovec)]
+***Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning***, Junlin He(=), **Tong Nie(=)**, Wei Ma\*. *AAAI*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2408.12116)] | [[Code](https://github.com/Umaruchain/LLMGeovec)]
 
   <img src="../images/LLM2Geovec.png" alt="sym" width="40%">
   
   *TL;DR*: A training-free method to extract generic geospatial encoding from LLMs that can enhance various downstream predictive learning tasks.
+
+
+***Channel-Aware Low-Rank Adaptation in Time Series Forecasting***, **Tong Nie**, Yuewen Mei, Guoyang Qin, Jian Sun, Wei Ma\*. *CIKM*, 2024. | [[Paper](https://doi.org/10.1145/3627673.3679884)] | [[Code](https://github.com/tongnie/C-LoRA)]
+
+  <img src="../images/CLORA.png" alt="sym" width="40%">
+  
+  *TL;DR*: A channel-aware low-rank adaptation method to balance channel independence and channel dependence.
+
+
+***ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation***, **Tong Nie**, Guoyang Qin, Wei Ma, Yuewen Mei, Jian Sun\*. *KDD*, 2024. | [[Paper](https://doi.org/10.1145/3637528.3671751)] | [[Code](https://github.com/tongnie/ImputeFormer)]
+
+  <img src="../images/ImputeFormer.png" alt="sym" width="40%">
+  
+  *TL;DR*: A generalizable Transformer model for spatiotemporal data imputation, achieving SOTA performances and great efficiency.
+
