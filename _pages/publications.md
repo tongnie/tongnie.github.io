@@ -43,14 +43,35 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
   *TL;DR*: A simple-yet-effective MLP-based architecture for large-scale urban data forecasting.
 
 
-***Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner***, **Tong Nie**, Guoyang Qin, Wei Ma\*, Jian Sun\*. *Transportation Research Part C: Emerging Technologies*, 2025. | [[Paper](https://doi.org/10.1016/j.trc.2024.104890)] | [[Code](https://github.com/tongnie/traffic_dynamics)]
+***Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner***, **Tong Nie**, Guoyang Qin, Wei Ma\*, Jian Sun\*. *Transportation Research Part C: Emerging Technologies*, 2024. | [[Paper](https://doi.org/10.1016/j.trc.2024.104890)] | [[Code](https://github.com/tongnie/traffic_dynamics)]
 
   <img src="../images/STINR.png" alt="sym" width="40%">
   
   *TL;DR*: A new paradigm for spatiotemporal traffic data learning using implicit neural representations.
 
 
-## CS/AI conference Proceedings
+***Towards better traffic volume estimation: Jointly addressing the underdetermination and nonequilibrium problems with correlation-adaptive GNNs***, **Tong Nie**, Guoyang Qin, Yunpeng Wang, Jian Sun\*. *Transportation Research Part C: Emerging Technologies*, 2023. | [[Paper](https://doi.org/10.1016/j.trc.2023.104402)] | [[Code](https://github.com/tongnie/GNN4Flow)]
+
+  <img src="../images/GNN4Flow.png" alt="sym" width="40%">
+  
+  *TL;DR*: A graph neural network model for unobserved traffic flow estimation considering speed-volume relationship.
+
+
+***Correlating sparse sensing for large-scale traffic speed estimation: A Laplacian-enhanced low-rank tensor kriging approach***, **Tong Nie**, Guoyang Qin, Yunpeng Wang, Jian Sun\*. *Transportation Research Part C: Emerging Technologies*, 2023. | [[Paper](https://doi.org/10.1016/j.trc.2023.104190)] | [[Code](https://github.com/tongnie/tensor4kriging)]
+
+  <img src="../images/Tensor4Kriging.png" alt="sym" width="40%">
+  
+  *TL;DR*: A Laplacian regularized tensor completion model for unobserved traffic speed estimation on large-scale highway networks.
+
+
+***Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns***, **Tong Nie**, Guoyang Qin, Jian Sun\*. *Transportation Research Part C: Emerging Technologies*, 2022. | [[Paper](https://doi.org/10.1016/j.trc.2022.103737)] | [[Code](https://github.com/tongnie/tensorlib)]
+
+  <img src="../images/LRTC.png" alt="sym" width="40%">
+  
+  *TL;DR*: A tensor completion model optimized by ADMM for sparse traffic data imputation.
+
+
+## CS/AI Conference Proceedings
 
 ***Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning***, Junlin He(=), **Tong Nie(=)**, Wei Ma\*. *AAAI*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2408.12116)] | [[Code](https://github.com/Umaruchain/LLMGeovec)]
 
