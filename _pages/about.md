@@ -57,7 +57,7 @@ In addition to transportation, I'm also interested in large vision/language mode
   <li>📢 Nov. 2024: I received a funding from the National Natural Science Foundation of China (国家自然科学基金) as the principal investigator (PI). A milestone in my PhD journey!! 🎉🎉</li>
   <li>📢 Oct. 2024: Our paper on MLP-Mixer for traffic forecasting was accepted at IEEE TITS! 🎉</li>
   <li>📢 Sep. 2024: Our paper on spatiotemporal implicit neural representations was accepted at Transportation Research Part C! 🎉</li>
-  <li>📢 Aug. 2024: I have attended KDD'24 at Barcelona and TRC-30 at Crete. We have a wonderful travel and enjoy sharing our research with the community!</li>
+  <li>📢 Aug. 2024: I have attended KDD'24 at Barcelona and TRC-30 at Crete. We had a wonderful travel and enjoyed sharing our research with the community!</li>
   <li>📢 July. 2024: Our paper on low-rank channel adaptation was accepted by CIKM 2024 (≈ 23% acceptance rate)!</li>
   <li>📢 May. 2024: Our ImputeFormer was accepted by KDD 2024 (≈ 20% acceptance rate) by oral presentation! 🎉🎉</li>
 </ul>
