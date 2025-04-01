@@ -29,6 +29,7 @@ author_profile: true
 - The Journal of Supercomputing
 - International Journal of Machine Learning and Cybernetics
 - TRBAM
+- ISTDM 2025
 
 ## Membership
 - IEEE Student Member, 2023-2024
