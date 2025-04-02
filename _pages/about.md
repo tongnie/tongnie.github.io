@@ -48,6 +48,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>📢 Apr. 2025: Our session proposal "[Innovative Applications of Large Language Models in Multimodal Transportation Systems](https://ieee-itsc.org/2025/wp-content/uploads/sites/4/2025/04/0011_MS.pdf)" has been accepted as an Invited Session at ITSC 2025! Welcome to submit your paper (code: p25rt) and look forward to see you in Gold Coast🏖️!
   <li>📢 Apr. 2025: Our latest survey paper on LLMs for transportation is preprinted on <a href="https://arxiv.org/abs/2503.21411">arXiv</a>!🔥</li>
   <li>📢 Mar. 2025: Our paper on LLM-enhanced demand estimation was accepted by Transportation Research Part E!🎉</li>
   <li>📢 Mar. 2025: I have two papers accepted by ICLR 2025 workshops. Look forward to see you in Singapore!</li>
