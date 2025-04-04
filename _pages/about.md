@@ -40,7 +40,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 - **Geospatial AI**:
   - [Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning](https://doi.org/10.48550/arXiv.2408.12116) (**AAAI 2025**)
 - **Sustainability science**:
-  - Large Language Models as a New Modality for Earch Data Monitoring (**ICLR 2025 workshop on tackling climate change with machine learning**)
+  - Large Language Models as a New Modality for Earth Data Monitoring (**ICLR 2025 workshop on tackling climate change with machine learning**)
 - **Large Language Models**:
   - [Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap](https://arxiv.org/abs/2503.21411)
 
