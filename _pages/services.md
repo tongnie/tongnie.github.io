@@ -8,11 +8,14 @@ author_profile: true
 # Meeting/Seminar Services
 
 ## 2025
-
+- Organizer for invited session "Innovative Applications of Large Language Models in Multimodal Transportation Systems" at [ITSC 2025](https://ieee-itsc.org/2025/)
+- *Venue*: Star Grand, Broadbeach, Gold Coast, Australia
+- *Time*: 18 – 21, Nov, 2025
+  
 ## 2024
 - Student helper for [The 28TH INTERNATIONAL CONFERENCE OF HONG KONG SOCIETY FOR TRANSPORTATION STUDIES (HKSTS)](https://www.hksts.org/conf24b.htm)
 - *Venue*: InterContinental Grand Stanford Hong Kong
-- *Time*: 09 - 10 Dec 2024
+- *Time*: 09 - 10, Dec, 2024
 
 # Professional Services
 
