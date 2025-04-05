@@ -38,5 +38,5 @@ author_profile: true
 - IEEE Student Member, 2023-2024
 - AAAI Student Member, 2024-2025
 
-  ## Teaching Assistance
-  - Teaching assistance for "Urban Transport Planning – Theory and Practice", Semester 1, 2024-2025.
+## Teaching Assistance
+- Teaching assistance for "Urban Transport Planning – Theory and Practice", Semester 1, 2024-2025.
