@@ -9,7 +9,7 @@ author_profile: true
 
 ## Exploring the Roles of LLMs in Transportation Systems: A Framework and Case Study
 _Apr. 7, 2025, Online_ \
-交通邦TRZ青年讲堂第六期 [[Slides]](../posts/交通邦-LLM4TR-NIE-Tong.pdf).
+交通邦TRZ青年讲堂第六期 [[Slides]](../posts/LLM4TR-NIE-Tong.pdf).
 <center>
   <img src="../images/交通邦talk_0.png" width="40%" />
   <img src="../images/交通邦talk.png" width="40%" />
