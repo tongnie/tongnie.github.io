@@ -48,7 +48,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
-  <li>📢 07, Apr. 2025: I have been invited to give an online talk at a WeChat platform called "交通邦". It was a pleasure to share our work with the community! 📝Check out the slides <a href="tongnie.github.io/_posts/LLM4TR-NIE-Tong.pdf">here</a>!</li>
+  <li>📢 07, Apr. 2025: I have been invited to give an online talk at a WeChat platform called "交通邦". It was a pleasure to share our work with the community! 📝Check out the slides <a href="https://github.com/tongnie/tongnie.github.io/blob/master/_posts/LLM4TR-NIE-Tong.pdf">here</a>!</li>
   <li>📢 Apr. 2025: Our session proposal <a href="https://ieee-itsc.org/2025/wp-content/uploads/sites/4/2025/04/0011_MS.pdf">Innovative Applications of Large Language Models in Multimodal Transportation Systems</a> has been accepted as an Invited Session at ITSC 2025! Welcome to submit your paper (code: p25rt) and look forward to see you in Gold Coast🏖️!</li>
   <li>📢 Apr. 2025: Our latest survey paper on LLMs for transportation is preprinted on <a href="https://arxiv.org/abs/2503.21411">arXiv</a>!🔥</li>
   <li>📢 Mar. 2025: Our paper on LLM-enhanced demand estimation was accepted by Transportation Research Part E!🎉</li>
