@@ -9,6 +9,7 @@ author_profile: true
 
 ## 2025
 - Organizer for invited session "Innovative Applications of Large Language Models in Multimodal Transportation Systems" at [ITSC 2025](https://ieee-itsc.org/2025/)
+- Designer of the [C4P](../images/ITSC25-LLM4TR-C4P-Flyer-Final.pdf)
 - *Venue*: Star Grand, Broadbeach, Gold Coast, Australia
 - *Time*: 18 – 21, Nov, 2025
   
