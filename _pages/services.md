@@ -25,15 +25,16 @@ author_profile: true
 - Transportation Research Part C: Emerging Technologies
 - IEEE Transactions on Knowledge and Data Engineering
 - Communications in Transportation Research
-- ACML 2025, 2024
-- KDD 2024
 - Transportation Research Record
 - IET Intelligent Transport Systems
 - Scientific Report
 - The Journal of Supercomputing
 - International Journal of Machine Learning and Cybernetics
-- TRBAM
+- ACML 2025, 2024
+- KDD 2024
+- TRBAM 2025
 - ISTDM 2025
+- IEEE ITSC 2025
 
 ## Membership
 - IEEE Student Member, 2023-2024
