@@ -37,7 +37,7 @@ I enjoy designing and visualizing academic and scientific material. This is a co
   <img src="../galleries/CIKM.png" width="50%" />
 </center>
 
-## KDD 2024
+## KDD 2024 (Co-designed with Guoyang)
 <center>
   <img src="../galleries/KDD.png" width="50%" />
 </center>
