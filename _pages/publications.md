@@ -14,7 +14,7 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
   <img src="../images/LLM-S2C.png" alt="sym" width="40%">
   
-  *TL;DR*: We introduce an LLM-enhanced closed-loop adversarial scenario generation method for the testing of CAVs.
+  *TL;DR*: We introduce an online safety-critical scenario generation method for autonomous driving using retrieval-augmented LLMs.
   
 
 ***Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap***, **Tong Nie**, Jian Sun, Wei Ma\*. *Arxiv Preprint*, 2025. | [[Paper](https://arxiv.org/abs/2503.21411)] | [[Project](https://github.com/tongnie/awesome-llm4tr)]
