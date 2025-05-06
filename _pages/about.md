@@ -73,7 +73,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 
 🗂️ Research projects
 ======
-- **Automated Generation of Autonomous Driving Test Scenarios and Adversarial Testing Methods**, 2025.1-2027.12, 300,000 CNY, National Natural Science Foundation of China’s Fundamental Research Program for Young Students.
+- **Automated Generation of Autonomous Driving Test Scenarios and Adversarial Testing Methods**, 2025.1-2027.12, 300,000 CNY, National Natural Science Foundation of China’s (国家自然科学基金) Fundamental Research Program for Young Students.
 
 📧 Reach out to me
 ======
