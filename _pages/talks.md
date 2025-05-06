@@ -7,6 +7,17 @@ author_profile: true
 
 ---
 
+
+
+## Collaborative Time Series Imputation through Cross-city Meta Learning
+_Apr. 23–29, 2025, Singapore EXPO, Singapore_ \
+Conference Poster Presentation @ ICLR 2025. [[Poster]](../images/ICLR25-INR-poster.pdf)
+
+<center>
+  <img src="../images/167806f779cda77821227c26ae6c37a.jpg" width="30%" />
+</center>
+
+
 ## Exploring the Roles of LLMs in Transportation Systems: A Framework and Case Study
 _Apr. 7, 2025, Online_ \
 交通邦TRZ青年讲堂第六期 [[Slides]](../_talks/LLM4TR-NIE-Tong.pdf).
