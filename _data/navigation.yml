@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Gallery"
+    url: /gallery/    
     
   - title: "Services"
     url: /services/
