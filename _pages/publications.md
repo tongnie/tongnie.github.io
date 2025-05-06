@@ -12,7 +12,7 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ***Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models***, Yuewen Mei, **Tong Nie\***, Jian Sun, Ye Tian. *Arxiv Preprint*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2505.00972)] | 
 
-  <img src="../images/LLMAttacker.png" alt="sym" width="40%">
+  <img src="../images/LLM-S2C.png" alt="sym" width="40%">
   
   *TL;DR*: We introduce an LLM-enhanced closed-loop adversarial scenario generation method for the testing of CAVs.
   
