@@ -13,8 +13,11 @@ author_profile: true
 _Apr. 23–29, 2025, Singapore EXPO, Singapore_ \
 Conference Poster Presentation @ ICLR 2025. [[Poster]](../images/ICLR25-INR-poster.pdf)
 
+(🫢 I got a photo with [Prof. Kaiming](https://scholar.google.com/citations?hl=zh-CN&user=DhtAFkwAAAAJ) in the conference hall.)
+
 <center>
   <img src="../images/167806f779cda77821227c26ae6c37a.jpg" width="30%" />
+  <img src="../images/22070e8634b3d436882b2bfd0d18c22.jpg" width="30%" />
 </center>
 
 
