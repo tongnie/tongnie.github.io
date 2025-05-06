@@ -10,6 +10,12 @@ author_profile: true
 I enjoy designing and visualizing academic and scientific material. This is a collection of my recently created POSTERs and ILLUSTRATIONs. Have a quick look!
 
 
+## ITSC 2025 Invited Session CFP
+<center>
+  <img src="../galleries/ITSC25CFP.png" width="50%" />
+</center>
+
+
 ## ICLR 2025
 <center>
   <img src="../galleries/ICLR2.png" width="50%" />
