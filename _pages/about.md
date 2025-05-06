@@ -35,8 +35,8 @@ My research focuses on developing learning-based solutions to advance the sensin
 From a **micro** perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
 - **Adversarial testing of autonomous vehicles with LLMs**
    - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://doi.org/10.48550/arXiv.2501.15850)
-- **Naturalistic and customizable traffic scenario generation with LLMs**
-  - Text2Scene: Customizable Traffic Scenario Generation with Retrieval Augmented Large Language Models, working in progress.
+- **Online safety-critical scenario generation with LLMs**
+  - [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://doi.org/10.48550/arXiv.2505.00972)
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 - **Geospatial AI**:
@@ -50,6 +50,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>📢 May. 2025: Our paper on <a href="https://doi.org/10.48550/arXiv.2505.00972">LLM-based online safety-critical scenario generation</a> is preprinted on arXiv! 🔥</li>
   <li>📢 29, Apr. 2025: I have attended ICLR 2025 at Singapore and enjoyed a wonderful travel there!! So excited to learn from the ICLR community! Look forward to come back to Singapore next time! </li>
   <li>📢 07, Apr. 2025: I have been invited to give an online talk at a WeChat platform called "交通邦". It was a pleasure to share our work with the community! 📝Check out the slides <a href="../talks/LLM4TR-NIE-Tong.pdf">here</a>!</li>
   <li>📢 Apr. 2025: Our session proposal <a href="https://ieee-itsc.org/2025/wp-content/uploads/sites/4/2025/04/0011_MS.pdf">Innovative Applications of Large Language Models in Multimodal Transportation Systems</a> has been accepted as an Invited Session at ITSC 2025! Welcome to submit your paper (code: p25rt) and look forward to see you in Gold Coast🏖️!</li>
