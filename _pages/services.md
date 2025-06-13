@@ -31,6 +31,7 @@ author_profile: true
 - The Journal of Supercomputing
 - International Journal of Machine Learning and Cybernetics
 - Journal of Intelligent Transportation Systems
+- Artificial Intelligence for Transportation
 - ACML 2025, 2024
 - KDD 2024
 - TRBAM 2025
