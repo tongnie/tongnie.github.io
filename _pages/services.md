@@ -32,6 +32,7 @@ author_profile: true
 - International Journal of Machine Learning and Cybernetics
 - Journal of Intelligent Transportation Systems
 - Artificial Intelligence for Transportation
+- IEEE Open Journal of Intelligent Transportation Systems
 - ACML 2025, 2024
 - KDD 2024
 - TRBAM 2025
