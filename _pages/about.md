@@ -34,9 +34,11 @@ My research focuses on developing learning-based solutions to advance the sensin
   
 From a **micro** perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
 - **Adversarial testing of autonomous vehicles with LLMs**
-   - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://doi.org/10.48550/arXiv.2501.15850)
+   - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://ieeexplore.ieee.org/abstract/document/11047235) (**IEEE TITS 2025**)
 - **Online safety-critical scenario generation with LLMs**
-  - [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://doi.org/10.48550/arXiv.2505.00972)
+  - [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://doi.org/10.48550/arXiv.2505.00972) (**IEEE ITSC 2025**)
+- **Contrastive language-scenario alignment**
+  - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios]  
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 - **Geospatial AI**:
@@ -44,7 +46,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 - **Sustainability science**:
   - Large Language Models as a New Modality for Earth Data Monitoring (**ICLR 2025 workshop on tackling climate change with machine learning**)
 - **Large Language Models**:
-  - [Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap](https://arxiv.org/abs/2503.21411)
+  - [Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap](https://www.sciencedirect.com/science/article/pii/S3050860625000031)  (**Artificial Intelligence for Transportation, Inaugural Issue, 2025**)
 
 📣 Recent News
 ======
