@@ -11,7 +11,7 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 ## Preprint/Submitted Manuscript
 
 
-***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao. *Arxiv Preprint* / *ICLR Workshop on Weight Space Learning* / Under 2nd Round Review at IEEE TKDE, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
+***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao. *Arxiv Preprint* / *ICLR Workshop on Weight Space Learning* / *Under 2nd Round Review at IEEE TKDE*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
 
   <img src="../images/MetaINR.png" alt="sym" width="40%">
   
@@ -23,7 +23,7 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
   <img src="../images/TII.png" alt="sym" width="50%">
   
-  *TL;DR*: A principled interpretable neural diffusion scheme based on Transformer-like structures for large-scale urban networked systems.
+  *TL;DR*: A principled interpretable neural diffusion scheme based on Transformer-like structures for modeling large-scale urban networked systems.
 
 
 ***Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap***, **Tong Nie**, Jian Sun, Wei Ma\*. *Artificial Intelligence for Transportation (Inaugural Issue)*, 2025. | [[Paper](https://doi.org/10.1016/j.ait.2025.100003)] | [[Project](https://github.com/tongnie/awesome-llm4tr)]
