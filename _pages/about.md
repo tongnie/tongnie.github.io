@@ -50,9 +50,10 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
-  <li>📢 June. 2025 [NEWS]: Our survey LLM4Tr has been published online at <a href="https://www.sciencedirect.com/science/article/pii/S3050860625000031">Artificial Intelligence for Transportation (AIT)</a> as an Inaugural Issue! 🔥 AIT is a new flagship journal in transportation led by COTA. A new venue for us to contribute research on AI in transportation studies! </li>
-  <li>📢 June. 2025: LLM-Attacker (LLM-based safety-critical scenario generation of AVs) has been accepted at <a href="https://ieeexplore.ieee.org/abstract/document/11047235">IEEE TITS</a> ! 🎉 🔥</li>
-  <li>📢 May. 2025: Our paper on <a href="https://doi.org/10.48550/arXiv.2505.00972">LLM-based online safety-critical scenario generation</a> is preprinted on arXiv! 🔥</li>
+  <li>📢 Jul. 2025: Our paper on <a href="https://doi.org/10.48550/arXiv.2505.00972">LLM-based online safety-critical scenario generation</a> is preprinted on arXiv! See you in Gold Coast🎉 </li>
+  <li>📢 Jun. 2025 [NEWS]: Our survey LLM4Tr has been published online at <a href="https://www.sciencedirect.com/science/article/pii/S3050860625000031">Artificial Intelligence for Transportation (AIT)</a> as an Inaugural Issue! 🔥 AIT is a new flagship journal in transportation led by COTA. A new venue for us to contribute research on AI in transportation studies! </li>
+  <li>📢 Jun. 2025: LLM-Attacker (LLM-based safety-critical scenario generation of AVs) has been accepted at <a href="https://ieeexplore.ieee.org/abstract/document/11047235">IEEE TITS</a> ! 🎉 🔥</li>
+  <li>📢 May 2025: Our paper on <a href="https://doi.org/10.48550/arXiv.2505.00972">LLM-based online safety-critical scenario generation</a> is preprinted on arXiv! 🔥</li>
   <li>📢 29, Apr. 2025: I have attended ICLR 2025 at Singapore and enjoyed a wonderful travel there!! So excited to learn from the ICLR community! Look forward to come back to Singapore next time! </li>
   <li>📢 07, Apr. 2025: I have been invited to give an online talk at a WeChat platform called "交通邦". It was a pleasure to share our work with the community! 📝Check out the slides <a href="../talks/LLM4TR-NIE-Tong.pdf">here</a>!</li>
   <li>📢 Apr. 2025: Our session proposal <a href="https://ieee-itsc.org/2025/wp-content/uploads/sites/4/2025/04/0011_MS.pdf">Innovative Applications of Large Language Models in Multimodal Transportation Systems</a> has been accepted as an Invited Session at ITSC 2025! Welcome to submit your paper (code: p25rt) and look forward to see you in Gold Coast🏖️!</li>
