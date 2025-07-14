@@ -19,6 +19,13 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ## Journal Publications
 
+***Predicting Large-scale Urban Network Dynamics with Energy-informed Graph Neural Diffusion***, **Tong Nie**, Jian Sun, Wei Ma\*. *IEEE Transactions on Industrial Informatics*, 2025. | [[Paper]()] | 
+
+  <img src="../images/TII.png" alt="sym" width="50%">
+  
+  *TL;DR*: A principled interpretable neural diffusion scheme based on Transformer-like structures for large-scale urban networked systems.
+
+
 ***Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap***, **Tong Nie**, Jian Sun, Wei Ma\*. *Artificial Intelligence for Transportation (Inaugural Issue)*, 2025. | [[Paper](https://doi.org/10.1016/j.ait.2025.100003)] | [[Project](https://github.com/tongnie/awesome-llm4tr)]
 
   <img src="../images/LLM4TR.png" alt="sym" width="40%">
