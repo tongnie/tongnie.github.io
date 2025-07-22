@@ -38,8 +38,10 @@ author_profile: true
 - TRBAM 2025
 - ISTDM 2025
 - IEEE ITSC 2025
+- AAAI 2026, Program Committee
 
 ## Membership
+- IEEE Student Member, 2025-2026
 - IEEE Student Member, 2023-2024
 - AAAI Student Member, 2024-2025
 
