@@ -39,6 +39,7 @@ author_profile: true
 - ISTDM 2025
 - IEEE ITSC 2025
 - AAAI 2026, Program Committee
+- Discover Computing
 
 ## Membership
 - IEEE Student Member, 2025-2026
