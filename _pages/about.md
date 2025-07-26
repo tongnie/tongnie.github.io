@@ -38,7 +38,9 @@ From a **micro** perspective, I'm currently trying to develop models that learn 
 - **Online safety-critical scenario generation with LLMs**
   - [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://doi.org/10.48550/arXiv.2505.00972) (**IEEE ITSC 2025**)
 - **Contrastive language-scenario alignment**
-  - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios]  
+  - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios], working in progress
+- **Preference optimization for adversarial scenario generation**
+  - [Controllable Adversarial Scenario Generation with Customizable Preference Alignment for Safe Autonomous Driving]
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 - **Geospatial AI**:
