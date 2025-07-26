@@ -40,7 +40,7 @@ From a **micro** perspective, I'm currently trying to develop models that learn 
 - **Contrastive language-scenario alignment**
   - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios], working in progress
 - **Preference optimization for adversarial scenario generation**
-  - [Controllable Adversarial Scenario Generation with Customizable Preference Alignment for Safe Autonomous Driving]
+  - [Controllable Adversarial Scenario Generation with Customizable Preference Alignment for Safe Autonomous Driving], working in progress
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 - **Geospatial AI**:
