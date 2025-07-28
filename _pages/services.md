@@ -38,7 +38,8 @@ author_profile: true
 - TRBAM 2025
 - ISTDM 2025
 - IEEE ITSC 2025
-- AAAI 2026, Program Committee
+- AAAI 2026, Main Track, Program Committee
+- AAAI 2026, AI Alignment Track, Program Committee
 - Discover Computing
 
 ## Membership
