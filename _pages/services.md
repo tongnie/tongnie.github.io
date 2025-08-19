@@ -35,7 +35,7 @@ author_profile: true
 - IEEE Open Journal of Intelligent Transportation Systems
 - ACML 2025, 2024
 - KDD 2024
-- TRBAM 2025
+- TRBAM 2025, 2026
 - ISTDM 2025
 - IEEE ITSC 2025
 - AAAI 2026, Main Track, Program Committee
