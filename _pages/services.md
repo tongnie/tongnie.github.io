@@ -33,14 +33,16 @@ author_profile: true
 - Journal of Intelligent Transportation Systems
 - Artificial Intelligence for Transportation
 - IEEE Open Journal of Intelligent Transportation Systems
-- ACML 2025, 2024
+- Discover Computing
+- Expert Systems With Applications
+- ACML 2024, 2025
 - KDD 2024
 - TRBAM 2025, 2026
 - ISTDM 2025
 - IEEE ITSC 2025
 - AAAI 2026, Main Track, Program Committee
 - AAAI 2026, AI Alignment Track, Program Committee
-- Discover Computing
+
 
 ## Membership
 - IEEE Student Member, 2025-2026
