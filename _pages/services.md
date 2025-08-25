@@ -35,6 +35,7 @@ author_profile: true
 - IEEE Open Journal of Intelligent Transportation Systems
 - Discover Computing
 - Expert Systems With Applications
+- Journal of Big Data
 - ACML 2024, 2025
 - KDD 2024
 - TRBAM 2025, 2026
