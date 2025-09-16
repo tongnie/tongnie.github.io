@@ -24,6 +24,7 @@ author_profile: true
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Part C: Emerging Technologies
 - IEEE Transactions on Knowledge and Data Engineering
+- Transportation Science
 - Communications in Transportation Research
 - Transportation Research Record
 - IET Intelligent Transport Systems
