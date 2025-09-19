@@ -54,7 +54,8 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
-  <li>📢 Jul. 2025: I will serve as a Program Committee for both the Main Track and the AI Alignment Track at AAAI 2026.  </li>
+  <li>📢 Sep 2025: I will serve as a Program Committee member for the Demo Track at AAAI 2026.  </li>
+  <li>📢 Jul. 2025: I will serve as a Program Committee member for both the Main Track and the AI Alignment Track at AAAI 2026.  </li>
   <li>📢 Jul. 2025: Our previous work on graph-based large-scale spatiotemporal forecasting has been accepted at IEEE TII🎉! Paper will be online soon~  </li>
   <li>📢 Jul. 2025: Our paper on <a href="https://doi.org/10.48550/arXiv.2505.00972">LLM-based online safety-critical scenario generation</a> is accepted by ITSC 2025! See you in Gold Coast🎉 </li>
   <li>📢 Jun. 2025 [NEWS]: Our survey LLM4Tr has been published online at <a href="https://www.sciencedirect.com/science/article/pii/S3050860625000031">Artificial Intelligence for Transportation (AIT)</a> as an Inaugural Issue! 🔥 AIT is a new flagship journal in transportation led by COTA. A new venue for us to contribute research on AI in transportation studies! </li>
