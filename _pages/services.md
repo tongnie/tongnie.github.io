@@ -44,6 +44,7 @@ author_profile: true
 - IEEE ITSC 2025
 - AAAI 2026, Main Track, Program Committee
 - AAAI 2026, AI Alignment Track, Program Committee
+- AAAI 2026, Demonstration Track, Program Committee
 
 
 ## Membership
