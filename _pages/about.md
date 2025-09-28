@@ -54,6 +54,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>🔥 Sep 2025: Our new work on adversarial scenario generation has been preprinted on arXiv. Check out our [paper](https://arxiv.org/abs/2509.20102) and [webpage](https://tongnie.github.io/SAGE/)!  </li>
   <li>📢 Sep 2025: I will serve as a Program Committee member for the Demo Track at AAAI 2026.  </li>
   <li>📢 Jul. 2025: I will serve as a Program Committee member for both the Main Track and the AI Alignment Track at AAAI 2026.  </li>
   <li>📢 Jul. 2025: Our previous work on graph-based large-scale spatiotemporal forecasting has been accepted at IEEE TII🎉! Paper will be online soon~  </li>
