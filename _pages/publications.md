@@ -10,6 +10,12 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ## Preprint/Submitted Manuscript
 
+***Steerable Adversarial Scenario Generation through Test-Time Preference Alignment***, **Tong Nie (=)**, Yuewen Mei (=), Yihong Tang, Junlin He, Jie Sun, Haotian Shi, Wei Ma\*, Jian Sun\*. *Arxiv Preprint*, 2025. | [[Paper](https://arxiv.org/abs/2509.20102)] | [webpage](https://tongnie.github.io/SAGE/)
+
+  <img src="../images/SAGE.png" alt="sym" width="40%">
+  
+  *TL;DR*: We introduce a new paradigm for adversarial scenario generation with test-time steerability.
+  
 
 ***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao. *Arxiv Preprint* / *ICLR Workshop on Weight Space Learning* / *Under 2nd Round Review at IEEE TKDE*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
 
