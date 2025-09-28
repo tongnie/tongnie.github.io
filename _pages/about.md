@@ -40,7 +40,7 @@ From a **micro** perspective, I'm currently trying to develop models that learn 
 - **Contrastive language-scenario alignment**
   - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios], working in progress
 - **Preference optimization for adversarial scenario generation**
-  - [Controllable Adversarial Scenario Generation with Customizable Preference Alignment for Safe Autonomous Driving], working in progress
+  - [Steerable Adversarial Scenario Generation through Test-Time Preference Alignment](https://arxiv.org/abs/2509.20102) (**Preprint**)
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 - **Geospatial AI**:
@@ -54,7 +54,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
-  <li>🔥 Sep 2025: Our new work on adversarial scenario generation has been preprinted on arXiv. Check out our [paper](https://arxiv.org/abs/2509.20102) and [webpage](https://tongnie.github.io/SAGE/)!  </li>
+  <li>🔥 Sep 2025: Our new research on adversarial scenario generation has been preprinted on arXiv. Check out our <a href="https://arxiv.org/abs/2509.20102">paper</a> and <a href="https://tongnie.github.io/SAGE/">webpage</a>!  </li>
   <li>📢 Sep 2025: I will serve as a Program Committee member for the Demo Track at AAAI 2026.  </li>
   <li>📢 Jul. 2025: I will serve as a Program Committee member for both the Main Track and the AI Alignment Track at AAAI 2026.  </li>
   <li>📢 Jul. 2025: Our previous work on graph-based large-scale spatiotemporal forecasting has been accepted at IEEE TII🎉! Paper will be online soon~  </li>
