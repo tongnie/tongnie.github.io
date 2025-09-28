@@ -12,7 +12,7 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ***Steerable Adversarial Scenario Generation through Test-Time Preference Alignment***, **Tong Nie (=)**, Yuewen Mei (=), Yihong Tang, Junlin He, Jie Sun, Haotian Shi, Wei Ma\*, Jian Sun\*. *Arxiv Preprint*, 2025. | [[Paper](https://arxiv.org/abs/2509.20102)] | [webpage](https://tongnie.github.io/SAGE/)
 
-  <img src="../images/SAGE.png" alt="sym" width="40%">
+  <img src="../images/SAGE.png" alt="sym" width="70%">
   
   *TL;DR*: We introduce a new paradigm for adversarial scenario generation with test-time steerability.
   
