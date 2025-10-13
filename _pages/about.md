@@ -54,6 +54,8 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>📢 Oct 2025: Meta learning-based implicit time series imputation has been accepted at IEEE TKDE (CCF-A)! Thanks to all insightful comments from the reviewers.  </li>
+  <li>📢 Oct 2025: I was awarded a national scholarship for PhD students according to my academic performance during the past year. Congrats!  </li>
   <li>🔥 Sep 2025: Our new research on adversarial scenario generation has been preprinted on arXiv. Check out our <a href="https://arxiv.org/abs/2509.20102">paper</a> and <a href="https://tongnie.github.io/SAGE/">webpage</a>!  </li>
   <li>📢 Sep 2025: I will serve as a Program Committee member for the Demo Track at AAAI 2026.  </li>
   <li>📢 Jul. 2025: I will serve as a Program Committee member for both the Main Track and the AI Alignment Track at AAAI 2026.  </li>
