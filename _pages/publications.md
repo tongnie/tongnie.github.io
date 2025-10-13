@@ -17,13 +17,15 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
   *TL;DR*: We introduce a new paradigm for adversarial scenario generation with test-time steerability.
   
 
-***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao. *Arxiv Preprint* / *ICLR Workshop on Weight Space Learning* / *Under 2nd Round Review at IEEE TKDE*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
+
+## Journal Publications
+
+***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao. *Arxiv Preprint* / *ICLR Workshop on Weight Space Learning* / *IEEE TKDE*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
 
   <img src="../images/MetaINR.png" alt="sym" width="40%">
   
   *TL;DR*: We introduce a cross-city collaborative time series imputation method based on meta learning implicit neural representations.
 
-## Journal Publications
 
 ***Predicting Large-scale Urban Network Dynamics with Energy-informed Graph Neural Diffusion***, **Tong Nie**, Jian Sun, Wei Ma\*. *IEEE Transactions on Industrial Informatics*, 2025. | [[Paper]()] | 
 
