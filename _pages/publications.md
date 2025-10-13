@@ -20,7 +20,7 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ## Journal Publications
 
-***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao.  *ICLR Workshop on Weight Space Learning* / *IEEE TKDE*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
+***Collaborative imputation of urban time series through cross-city meta-learning***, **Tong Nie**, Wei Ma\*, Jian Sun\*, Yu Yang, Jiannong Cao.  *ICLR Workshop on Weight Space Learning* / *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2501.11306)] | 
 
   <img src="../images/MetaINR.png" alt="sym" width="40%">
   
