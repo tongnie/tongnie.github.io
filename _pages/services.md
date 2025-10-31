@@ -43,6 +43,7 @@ author_profile: true
 - TRBAM 2025, 2026
 - ISTDM 2025
 - IEEE ITSC 2025
+- IEEE IV 2026
 - AAAI 2026, Main Track, Program Committee
 - AAAI 2026, AI Alignment Track, Program Committee
 - AAAI 2026, Demonstration Track, Program Committee
