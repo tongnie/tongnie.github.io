@@ -38,6 +38,7 @@ author_profile: true
 - Expert Systems With Applications
 - Journal of Big Data
 - Engineering Applications of Artificial Intelligence
+- Energy
 - ACML 2024, 2025
 - KDD 2024
 - TRBAM 2025, 2026
