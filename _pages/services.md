@@ -23,6 +23,7 @@ author_profile: true
 ## Reviewer (peer-reviewed journals and conferences)
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Part C: Emerging Technologies
+- Transportation Research Part E: Logistics and Transportation Review
 - IEEE Transactions on Knowledge and Data Engineering
 - Transportation Science
 - Communications in Transportation Research
