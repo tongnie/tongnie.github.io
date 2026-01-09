@@ -11,7 +11,22 @@ layout: archive
 👋 My name is Tong Nie (聂通 in Chinese). I'm currently a fourth-year PhD student at both The Hong Kong Polytechnic University and Tongji University, supervised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Wei Ma](http://weima171.com/). My PhD research project was conducted under the support of the [PolyU Presidential PhD Fellowship Scheme](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/), and was funded by the National Natural Science Foundation of China (NSFC). Prior to joining PolyU, I earned my B.S. (2022) in Civil Engineering from Tongji University, Shanghai, China, and started my research career by working with [Dr. Guoyang Qin](https://scholar.google.com/citations?user=RqB1UgYAAAAJ&hl=zh-CN) and [Prof. Chenglong Liu](https://charley33301.github.io/).
 I'm now conducting research with the [PolyU Mobility AI Lab](http://polyu-mobility-ai-lab.com/) and [TOPS](https://tops.tongji.edu.cn/).
 
-My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in **spatiotemporal models**. From a **macro** perspective, I have developed: 
+My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in machine learning methods such as **Adversarial learning, Spatiotemporal learning, and Alignment**. From a **micro** perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the training and testing of end-to-end autonomous driving systems🚗.
+- **Preference optimization for adversarial scenario generation**
+  - [Steerable Adversarial Scenario Generation through Test-Time Preference Alignment](https://arxiv.org/abs/2509.20102) (**Under review at ICLR 2026**)
+- **Contrastive language-scenario alignment**
+  - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios], working in progress
+- **Generalizable closed-loop adversarial training framework**
+  - [ADV-0: Closed-Loop Min-Max Policy Optimization for Generalizable Adversarial Learning in the Long Tail], coming soon.
+- **Adversarial testing of autonomous vehicles with LLMs**
+   - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://ieeexplore.ieee.org/abstract/document/11047235) (**IEEE TITS 2025**)
+- **Online safety-critical scenario generation with LLMs**
+  - [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://doi.org/10.48550/arXiv.2505.00972) (**IEEE ITSC 2025**)
+
+
+
+
+From a **macro** perspective, I have developed: 
 
 - **Tensor-based low-rank models for sparse sensing of traffic data**, e.g., point-wise traffic data imputation and sensor-wise traffic flow estimation:
   - [Truncated tensor Schatten p-norm based approach for spatiotemporal traffic data imputation with complicated missing patterns](https://doi.org/10.1016/j.trc.2022.103737) (**TRC 2022**)
@@ -27,20 +42,11 @@ My research focuses on developing learning-based solutions to advance the sensin
 
 - **Implicit neural representations (INRs) for continuous spatiotemporal modeling**, e.g., meta learning based INRs:
   - [Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner](https://doi.org/10.1016/j.trc.2024.104890) (**TRC 2024**)
-  - [Collaborative imputation of urban time series through cross-city meta-learning](https://doi.org/10.48550/arXiv.2501.11306) (**ICLR 2025 workshop on weight space learning**)
+  - [Collaborative imputation of urban time series through cross-city meta-learning](https://doi.org/10.48550/arXiv.2501.11306) (**IEEE TKDE 2026**)
 
 - **Location-based spatiotemporal modeling**:
   - [Joint Estimation and Prediction of City-wide Delivery Demand: A Large Language Model Empowered Graph-based Learning Approach](https://doi.org/10.1016/j.tre.2025.104075) (**TRE 2025**)
   
-From a **micro** perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the development and testing of end-to-end autonomous driving systems🚗.
-- **Adversarial testing of autonomous vehicles with LLMs**
-   - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://ieeexplore.ieee.org/abstract/document/11047235) (**IEEE TITS 2025**)
-- **Online safety-critical scenario generation with LLMs**
-  - [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://doi.org/10.48550/arXiv.2505.00972) (**IEEE ITSC 2025**)
-- **Contrastive language-scenario alignment**
-  - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios], working in progress
-- **Preference optimization for adversarial scenario generation**
-  - [Steerable Adversarial Scenario Generation through Test-Time Preference Alignment](https://arxiv.org/abs/2509.20102) (**Preprint**)
 
 In addition to transportation, I'm also interested in large vision/language models, urban computing, sustainability science, AI for social good applications.
 - **Geospatial AI**:
@@ -54,6 +60,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>🏖️ Nov 2025: I attended ITSC 2025 at Gold Coast, Australia. I served as a co-chair in an invited session. Really enjoyed this trip!🍻  </li>
   <li>📢 Oct 2025: Meta learning-based implicit time series imputation has been accepted at IEEE TKDE (CCF-A)! Thanks to all insightful comments from the reviewers.  </li>
   <li>📢 Oct 2025: I was awarded a national scholarship for PhD students according to my academic performance during the past year. Congrats!  </li>
   <li>🔥 Sep 2025: Our new research on adversarial scenario generation has been preprinted on arXiv. Check out our <a href="https://arxiv.org/abs/2509.20102">paper</a> and <a href="https://tongnie.github.io/SAGE/">webpage</a>!  </li>
