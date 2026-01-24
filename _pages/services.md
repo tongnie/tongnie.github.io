@@ -50,6 +50,8 @@ author_profile: true
 - AAAI 2026, AI Alignment Track, Program Committee
 - AAAI 2026, Demonstration Track, Program Committee
 - CVPR 2026
+- ECCV 2026
+- ICML 2026
 
 
 ## Membership
