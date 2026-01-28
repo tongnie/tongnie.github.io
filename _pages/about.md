@@ -13,7 +13,7 @@ I'm now conducting research with the [PolyU Mobility AI Lab](http://polyu-mobili
 
 My research focuses on developing learning-based solutions to advance the sensing, modeling, and managing of transportation systems, with a particular interest in machine learning methods such as **Adversarial learning, Spatiotemporal learning, and Alignment**. From a **micro** perspective, I'm currently trying to develop models that learn to reconstruct, predict, and generate both *realistic* and *adversarial* traffic scenarios for the training and testing of end-to-end autonomous driving systems🚗.
 - **Preference optimization for adversarial scenario generation**
-  - [Steerable Adversarial Scenario Generation through Test-Time Preference Alignment](https://arxiv.org/abs/2509.20102) (**Under review at ICLR 2026**)
+  - [Steerable Adversarial Scenario Generation through Test-Time Preference Alignment](https://arxiv.org/abs/2509.20102) (**ICLR 2026**)
 - **Contrastive language-scenario alignment**
   - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios], working in progress
 - **Generalizable closed-loop adversarial training framework**
@@ -60,6 +60,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>🔥📢 Jan 2026: Our paper [SAGE](https://arxiv.org/abs/2509.20102) has been accepted at ICLR 2026!! Thanks to all insightful comments from the reviewers/ACs/PCs and the efforts of all co-authors.  </li>
   <li>🏖️ Nov 2025: I attended ITSC 2025 at Gold Coast, Australia. I served as a co-chair in an invited session. Really enjoyed this trip!🍻  </li>
   <li>📢 Oct 2025: Meta learning-based implicit time series imputation has been accepted at IEEE TKDE (CCF-A)! Thanks to all insightful comments from the reviewers.  </li>
   <li>📢 Oct 2025: I was awarded a national scholarship for PhD students according to my academic performance during the past year. Congrats!  </li>
