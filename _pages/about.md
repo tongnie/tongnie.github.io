@@ -60,7 +60,7 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
-  <li>🔥📢 Jan 2026: Our paper [SAGE](https://arxiv.org/abs/2509.20102) has been accepted at ICLR 2026!! Thanks to all insightful comments from the reviewers/ACs/PCs and the efforts of all co-authors.  </li>
+  <li>🔥📢 Jan 2026: Our paper <a href="https://arxiv.org/abs/2509.20102">SAGE</a> has been accepted at ICLR 2026!! Thanks to all insightful comments from the reviewers/ACs/PCs and the efforts of all co-authors.  </li>
   <li>🏖️ Nov 2025: I attended ITSC 2025 at Gold Coast, Australia. I served as a co-chair in an invited session. Really enjoyed this trip!🍻  </li>
   <li>📢 Oct 2025: Meta learning-based implicit time series imputation has been accepted at IEEE TKDE (CCF-A)! Thanks to all insightful comments from the reviewers.  </li>
   <li>📢 Oct 2025: I was awarded a national scholarship for PhD students according to my academic performance during the past year. Congrats!  </li>
