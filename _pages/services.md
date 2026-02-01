@@ -36,7 +36,9 @@ author_profile: true
 - Artificial Intelligence for Transportation
 - IEEE Open Journal of Intelligent Transportation Systems
 - Discover Computing
+- Discover Applied Sciences
 - Expert Systems With Applications
+- Neurocomputing
 - Journal of Big Data
 - Engineering Applications of Artificial Intelligence
 - Energy
