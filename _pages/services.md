@@ -54,6 +54,7 @@ author_profile: true
 - CVPR 2026
 - ECCV 2026
 - ICML 2026
+- KDD 2026, AI4Science track
 
 
 ## Membership
