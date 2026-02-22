@@ -16,7 +16,6 @@ My research focuses on developing learning-based solutions to advance the sensin
   - [Steerable Adversarial Scenario Generation through Test-Time Preference Alignment](https://arxiv.org/abs/2509.20102) (**ICLR 2026**)
 - **Contrastive language-scenario alignment**
   - [Semantic Alignment of Language and Motion Enables Zero-shot Generation of Multi-agent Scenarios], working in progress
-- **Generalizable closed-loop adversarial training framework**
 - **Adversarial testing of autonomous vehicles with LLMs**
    - [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://ieeexplore.ieee.org/abstract/document/11047235) (**IEEE TITS 2025**)
 - **Online safety-critical scenario generation with LLMs**
