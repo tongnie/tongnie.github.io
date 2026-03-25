@@ -55,6 +55,7 @@ author_profile: true
 - ECCV 2026
 - ICML 2026
 - KDD 2026, AI4Science track
+- NeurIPS 2026
 
 
 ## Membership
