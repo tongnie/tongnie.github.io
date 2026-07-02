@@ -10,12 +10,33 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 ## Preprint/Submitted Manuscript
 
-***Steerable Adversarial Scenario Generation through Test-Time Preference Alignment***, **Tong Nie (=)**, Yuewen Mei (=), Yihong Tang, Junlin He, Jie Sun, Haotian Shi, Wei Ma\*, Jian Sun\*. *ICLR*, 2026. | [[Paper](https://arxiv.org/abs/2509.20102)] | [[webpage](https://tongnie.github.io/SAGE/)]
+***From Attacks to Curricula: Learnability-Guided Adversarial Training for Safe Autonomous Driving***, Yuewen Mei, **Tong Nie**, Jie Sun, Haotian Shi, Wei Ma\*, Jian Sun\*. *arXiv preprint*, 2026. | [[Paper](https://arxiv.org/abs/2606.14032)] | [[Project](https://meiyuewen.github.io/AlignADV/)]
 
-  <img src="../images/SAGE.png" alt="sym" width="70%">
+  <img src="../images/AlignADV.png" alt="sym" width="70%">
   
-  *TL;DR*: We introduce a new paradigm for adversarial scenario generation with test-time steerability.
+  *TL;DR*: We convert adversarial scenarios into learnability-guided curricula for safer and more efficient autonomous driving policy training.
   
+
+***EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents***, **Tong Nie**, Yuewen Mei, Yihong Tang, Junlin He, Jie Deng, Jian Sun\*, Wei Ma\*. *arXiv preprint*, 2026. | [[Paper](https://arxiv.org/abs/2606.03678)] |
+
+  <img src="../images/EvoDrive.png" alt="sym" width="70%">
+
+  *TL;DR*: We introduce a simulator-grounded LLM agent framework that evolves diverse attack-realism Pareto frontiers for safety-critical autonomous driving.
+
+
+***MobEvolve: An Agentic Self-Evolving Heuristic System for Interpretable Human Mobility Generation***, Junlin He(=), Yihong Tang(=), **Tong Nie**, Ao Qu, Yuebing Liang, Hamzeh Alizadeh, Bang Liu, Wei Ma\*, Lijun Sun\*. *arXiv preprint*, 2026. | [[Paper](https://arxiv.org/abs/2606.01640)] |
+
+  <img src="../images/MobEvolve.png" alt="sym" width="55%">
+
+  *TL;DR*: We introduce a self-evolving heuristic system for realistic, interpretable, and efficient human mobility generation.
+
+
+***ADV-0: Closed-Loop Min-Max Adversarial Training for Long-Tail Robustness in Autonomous Driving***, **Tong Nie**, Yihong Tang, Junlin He, Yuewen Mei, Jie Sun, Lijun Sun, Wei Ma, Jian Sun. *arXiv preprint*, 2026. | [[Paper](https://arxiv.org/abs/2603.15221)] |
+
+  <img src="../images/ADV0.png" alt="sym" width="60%">
+
+  *TL;DR*: We formulate closed-loop adversarial training as a min-max game to improve long-tail robustness in autonomous driving.
+
 
 
 ## Journal Publications
@@ -90,6 +111,34 @@ This list is not frequently updated. Please see my [Google Scholar](https://scho
 
 
 ## CS/AI Conference Proceedings
+
+***Steerable Adversarial Scenario Generation through Test-Time Preference Alignment***, **Tong Nie (=)**, Yuewen Mei (=), Yihong Tang, Junlin He, Jie Sun, Haotian Shi, Wei Ma\*, Jian Sun\*. *ICLR*, 2026. | [[Paper](https://arxiv.org/abs/2509.20102)] | [[webpage](https://tongnie.github.io/SAGE/)]
+
+  <img src="../images/SAGE.png" alt="sym" width="70%">
+
+  *TL;DR*: We introduce a new paradigm for adversarial scenario generation with test-time steerability.
+
+
+***E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving***, Yihong Tang(=), Haicheng Liao(=), **Tong Nie**, Junlin He, Ao Qu, Kehua Chen, Wei Ma, Zhenning Li\*, Lijun Sun\*, Chengzhong Xu\*. *CVPR*, 2026. | [[Paper](https://arxiv.org/abs/2512.04733)] |
+
+  <img src="../images/E3AD.png" alt="sym" width="55%">
+
+  *TL;DR*: We introduce an emotion-aware vision-language-action framework for human-centric open-domain end-to-end autonomous driving.
+
+
+***Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization***, Junlin He, Yihong Tang, **Tong Nie**, Guilong Li, Binyu Yang, Jinxiao Du, Lijun Sun, Wei Ma\*. *ICML*, 2026. | [[Paper](https://arxiv.org/abs/2605.29327)] |
+
+  <img src="../images/RED.png" alt="sym" width="50%">
+
+  *TL;DR*: We introduce activation-aware initialization to preserve multi-step reasoning when efficiently distilling large language models.
+
+
+***LLMSynthor: Macro-Aligned Micro-Records Synthesis with Large Language Models***, Yihong Tang, Menglin Kong, Junlin He, **Tong Nie**, Wei Ma\*, Lijun Sun\*. *KDD*, 2026. | [[Paper](https://arxiv.org/abs/2505.14752)] |
+
+  <img src="../images/LLMSynthor.png" alt="sym" width="55%">
+
+  *TL;DR*: We turn pretrained LLMs into macro-aware simulators for synthesizing realistic micro-records aligned with target aggregate statistics.
+
 
 ***Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning***, Junlin He(=), **Tong Nie(=)**, Wei Ma\*. *AAAI*, 2025. | [[Paper](https://doi.org/10.48550/arXiv.2408.12116)] | [[Code](https://github.com/Umaruchain/LLMGeovec)]
 

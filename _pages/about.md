@@ -58,6 +58,15 @@ In addition to transportation, I'm also interested in large vision/language mode
 ======
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #eee; border-radius: 5px;">
 <ul>
+  <li>🔥📚 Jun. 12, 2026: Our new preprint <a href="https://arxiv.org/abs/2606.14032">From Attacks to Curricula: Learnability-Guided Adversarial Training for Safe Autonomous Driving</a> is available on arXiv. We introduce AlignADV, a learnability-guided curriculum for safer closed-loop adversarial training.</li>
+  <li>🔥📚 Jun. 2, 2026: Our preprint <a href="https://arxiv.org/abs/2606.03678">EvoDrive</a> is available on arXiv, exploring Pareto evolution with self-improving LLM agents for safety-critical autonomous driving.</li>
+  <li>🔥📚 Jun. 1, 2026: Our preprint <a href="https://arxiv.org/abs/2606.01640">MobEvolve</a> is available on arXiv, proposing an agentic self-evolving heuristic system for interpretable human mobility generation.</li>
+  <li>🎉 May 2026: Our collaborative work <a href="https://arxiv.org/abs/2505.14752">LLMSynthor</a> has been accepted by KDD 2026! Congrats to all co-authors.</li>
+  <li>🎉 Apr. 2026: Our collaborative work <a href="https://arxiv.org/abs/2605.29327">Reasoning-preserved Efficient Distillation of Large Language Models via Activation-aware Initialization</a> has been accepted by ICML 2026! Congrats to all co-authors.</li>
+  <li>🏝️ Apr. 2026: I attended ICLR 2026 in Rio de Janeiro. The scenery was beautiful, I met many new friends, and learned a lot from the community.</li>
+  <li>🏆 Mar. 2026: I was honored to receive the <a href="https://www.polyu.edu.hk/gs/news-and-events/best-rpg-student-of-the-year-2025/">PolyU Best RPG Student of the Year Award 2025</a>. Sincere thanks to my supervisors, collaborators, and friends for their support.</li>
+  <li>🔥📚 Mar. 16, 2026: Our preprint <a href="https://arxiv.org/abs/2603.15221">ADV-0</a> is available on arXiv, introducing closed-loop min-max adversarial training for long-tail robustness in autonomous driving.</li>
+  <li>🎉 Mid-Feb. 2026: Our collaborative work <a href="https://arxiv.org/abs/2512.04733">E3AD</a> has been accepted by CVPR 2026! Congrats to all co-authors.</li>
   <li>🔥📢 Jan 2026: Our paper <a href="https://arxiv.org/abs/2509.20102">SAGE</a> has been accepted at ICLR 2026!! Thanks to all insightful comments from the reviewers/ACs/PCs and the efforts of all co-authors.  </li>
   <li>🏖️ Nov 2025: I attended ITSC 2025 at Gold Coast, Australia. I served as a co-chair in an invited session. Really enjoyed this trip!🍻  </li>
   <li>📢 Oct 2025: Meta learning-based implicit time series imputation has been accepted at IEEE TKDE (CCF-A)! Thanks to all insightful comments from the reviewers.  </li>
