@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on LLM-enhanced delivery demand estimation has been accepted by **Transportation Research Part E**.
+🎉 Our work on LLM-enhanced delivery demand estimation has been accepted by **Transportation Research Part E**.

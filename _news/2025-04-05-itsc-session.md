@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our invited session proposal, **Innovative Applications of Large Language Models in Multimodal Transportation Systems**, has been accepted by **IEEE ITSC 2025**.
+✈️ Our invited session proposal, **Innovative Applications of Large Language Models in Multimodal Transportation Systems**, has been accepted by **IEEE ITSC 2025**.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as a Program Committee member for the AAAI 2026 Main Track and AI Alignment Track.
+🤝 I will serve as a Program Committee member for the AAAI 2026 Main Track and AI Alignment Track.

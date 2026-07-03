@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded a national scholarship for Ph.D. students.
+🏆 I was awarded a national scholarship for Ph.D. students.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was invited to give an online talk at the WeChat platform "Jiao Tong Bang" and shared our recent work on LLMs for transportation.
+🎤 I was invited to give an online talk at the WeChat platform "Jiao Tong Bang" and shared our recent work on LLMs for transportation.

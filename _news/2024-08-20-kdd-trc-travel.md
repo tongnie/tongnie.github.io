@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I attended **KDD 2024** in Barcelona and **TRC-30** in Crete, and enjoyed sharing our research with the community.
+✈️ I attended **KDD 2024** in Barcelona and **TRC-30** in Crete, and enjoyed sharing our research with the community.

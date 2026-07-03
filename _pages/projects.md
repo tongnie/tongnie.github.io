@@ -11,7 +11,7 @@ My research can be organized into four connected directions. They all study how 
 
 <div class="research-grid">
   <section class="research-card">
-    <img src="/assets/img/publication_preview/EvoDrive.png" alt="Safe autonomous driving preview">
+    <img src="/assets/img/publication_preview/SAGE.png" alt="Safe autonomous driving preview">
     <div>
       <h2>Safe Autonomous Driving</h2>
       <p>I study how to generate, search, and use realistic safety-critical traffic scenarios before autonomous driving systems are deployed. The goal is not only to find failures, but also to convert adversarial cases into training signals that improve long-tail robustness.</p>
@@ -25,7 +25,7 @@ My research can be organized into four connected directions. They all study how 
   </section>
 
   <section class="research-card">
-    <img src="/assets/img/publication_preview/LLM4TR.png" alt="LLM agents for mobility preview">
+    <img src="/assets/img/publication_preview/MobEvolve-cropped.png" alt="LLM agents for mobility preview">
     <div>
       <h2>LLM Agents for Mobility</h2>
       <p>I am interested in language models as a new computational layer for transportation: they can encode geospatial semantics, synthesize realistic mobility records, support demand modeling, and coordinate agentic search in complex simulators.</p>
@@ -39,7 +39,7 @@ My research can be organized into four connected directions. They all study how 
   </section>
 
   <section class="research-card">
-    <img src="/assets/img/publication_preview/ImputeFormer.png" alt="Spatiotemporal learning preview">
+    <img src="/assets/img/publication_preview/STINR.png" alt="Spatiotemporal learning preview">
     <div>
       <h2>Spatiotemporal Learning</h2>
       <p>This direction focuses on learning from sparse, noisy, and incomplete observations in city-scale systems. I develop models that combine low-rank structure, graph inductive bias, Transformers, and implicit neural representations for estimation, imputation, and forecasting.</p>

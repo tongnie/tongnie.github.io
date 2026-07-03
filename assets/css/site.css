@@ -3,6 +3,69 @@
  * Keep this file small so upstream theme updates remain easy to audit.
  */
 
+:root {
+  --global-theme-color: #168179;
+  --global-hover-color: #d96b3c;
+  --global-hover-text-color: #ffffff;
+  --tn-navy: #15344f;
+  --tn-teal: #168179;
+  --tn-coral: #d96b3c;
+  --tn-gold: #c9972b;
+  --tn-mist: #f3faf8;
+  --tn-sky: #eef6fb;
+  --tn-ink-soft: #334e68;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #56c7bd;
+  --global-hover-color: #f0a36e;
+  --tn-navy: #d8edf5;
+  --tn-teal: #56c7bd;
+  --tn-coral: #f0a36e;
+  --tn-gold: #f1cf73;
+  --tn-mist: #10272b;
+  --tn-sky: #14232e;
+  --tn-ink-soft: #b7c6cf;
+}
+
+a,
+.navbar-brand,
+.navbar-nav .nav-link:hover {
+  color: var(--tn-teal);
+}
+
+.navbar {
+  border-bottom: 3px solid rgba(22, 129, 121, 0.16);
+}
+
+.post h1,
+.post h2,
+.publications .title {
+  color: var(--tn-navy);
+}
+
+.post h2 {
+  border-bottom-color: rgba(22, 129, 121, 0.22);
+}
+
+.badge,
+.btn.btn-sm {
+  border-color: rgba(22, 129, 121, 0.45);
+}
+
+.btn.btn-sm:hover {
+  border-color: var(--tn-coral);
+}
+
+.news table th {
+  color: var(--tn-teal);
+  font-weight: 500;
+}
+
+.news table td {
+  color: var(--tn-ink-soft);
+}
+
 .navbar .navbar-toggler-main,
 .navbar .navbar-toggler-main .icon-bar {
   visibility: visible;
@@ -61,17 +124,24 @@
   line-height: 1.55;
   hyphens: none;
   word-break: normal;
+  color: var(--tn-ink-soft);
+}
+
+.profile img {
+  border: 1px solid rgba(22, 129, 121, 0.18);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(21, 52, 79, 0.08);
 }
 
 @media (min-width: 768px) {
   .publications ol.bibliography li .row > .abbr {
-    flex: 0 0 30%;
-    max-width: 30%;
+    flex: 0 0 34%;
+    max-width: 34%;
   }
 
   .publications ol.bibliography li .row > .abbr + div {
-    flex: 0 0 68%;
-    max-width: 68%;
+    flex: 0 0 64%;
+    max-width: 64%;
   }
 
   .publications ol.bibliography li .abbr figure {
@@ -80,10 +150,11 @@
 
   .publications ol.bibliography li img.preview {
     width: 100%;
-    max-height: 240px;
+    max-height: 285px;
     padding: 0.25rem;
     object-fit: contain;
     background: var(--global-card-bg-color);
+    border-color: rgba(22, 129, 121, 0.18);
   }
 }
 
@@ -96,44 +167,80 @@
 
   .publications ol.bibliography li img.preview {
     width: 100%;
-    max-height: 280px;
+    max-height: 320px;
     object-fit: contain;
   }
+}
+
+.pub-tldr {
+  margin: 0.45rem 0 0.3rem;
+  padding: 0.45rem 0.65rem;
+  border-left: 3px solid var(--tn-teal);
+  border-radius: 0 6px 6px 0;
+  background: var(--tn-mist);
+  color: var(--tn-ink-soft);
+  font-size: 0.92rem;
+  line-height: 1.45;
 }
 
 .research-grid,
 .gallery-grid,
 .service-grid,
-.note-list {
+.note-list,
+.talk-grid {
   display: grid;
   gap: 1.25rem;
 }
 
 .research-card {
   display: grid;
-  grid-template-columns: minmax(220px, 32%) 1fr;
+  grid-template-columns: minmax(280px, 38%) 1fr;
   gap: 1.25rem;
   align-items: start;
-  padding: 1rem 0;
-  border-top: 1px solid var(--global-divider-color);
+  padding: 1.15rem 0;
+  border-top: 1px solid rgba(22, 129, 121, 0.2);
 }
 
 .research-card:last-child {
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: 1px solid rgba(22, 129, 121, 0.2);
 }
 
 .research-card img {
   width: 100%;
-  max-height: 230px;
+  height: 260px;
   object-fit: contain;
   border-radius: 6px;
   background: var(--global-card-bg-color);
+  border: 1px solid rgba(22, 129, 121, 0.15);
+  box-shadow: 0 8px 20px rgba(21, 52, 79, 0.06);
 }
 
 .research-card h2,
 .service-grid h3,
-.note-list h3 {
+.note-list h3,
+.talk-card h2 {
   margin-bottom: 0.45rem;
+}
+
+.research-card h2:nth-child(n),
+.talk-card h2 {
+  color: var(--tn-navy);
+}
+
+.research-card:nth-child(4n + 1) h2 {
+  color: var(--tn-teal);
+}
+
+.research-card:nth-child(4n + 2) h2 {
+  color: var(--tn-coral);
+}
+
+.research-card:nth-child(4n + 3) h2 {
+  color: var(--tn-navy);
+}
+
+.research-card:nth-child(4n) h2 {
+  color: var(--tn-gold);
 }
 
 .work-list {
@@ -167,12 +274,172 @@
 
 .service-grid section,
 .note-list section {
-  border-top: 1px solid var(--global-divider-color);
+  border-top: 1px solid rgba(22, 129, 121, 0.2);
   padding-top: 0.9rem;
+}
+
+.cv-hero {
+  margin-bottom: 1rem;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid var(--tn-teal);
+  border-radius: 0 8px 8px 0;
+  background: var(--tn-sky);
+}
+
+.cv-hero p {
+  margin-bottom: 0.65rem;
+  color: var(--tn-ink-soft);
+}
+
+.cv-hero .cv-updated {
+  margin-top: -0.35rem;
+  color: var(--tn-teal);
+  font-size: 0.9rem;
+}
+
+.cv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.cv-pdf-frame {
+  width: 100%;
+  height: min(78vh, 900px);
+  min-height: 560px;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(22, 129, 121, 0.22);
+  border-radius: 8px;
+  background: var(--global-card-bg-color);
+}
+
+.cv-section {
+  margin: 1.4rem 0;
+}
+
+.cv-timeline {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.cv-timeline article,
+.cv-card {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-top: 1px solid rgba(22, 129, 121, 0.18);
+}
+
+.cv-timeline.compact article {
+  padding: 0.5rem 0;
+}
+
+.cv-timeline span,
+.cv-card span {
+  display: block;
+  color: var(--tn-ink-soft);
+}
+
+.cv-timeline time {
+  color: var(--tn-teal);
+  white-space: nowrap;
+}
+
+.talk-grid {
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+}
+
+.talk-card {
+  overflow: hidden;
+  border: 1px solid rgba(22, 129, 121, 0.18);
+  border-radius: 8px;
+  background: var(--global-card-bg-color);
+}
+
+.talk-card.featured {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(320px, 44%) 1fr;
+}
+
+.talk-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  background: var(--tn-sky);
+}
+
+.talk-card.featured img {
+  height: 100%;
+  min-height: 290px;
+}
+
+.talk-card div {
+  padding: 0.95rem;
+}
+
+.talk-card h2 {
+  font-size: 1.08rem;
+  line-height: 1.35;
+}
+
+.talk-date {
+  color: var(--tn-coral);
+  font-size: 0.86rem;
+  font-weight: 500;
+}
+
+.talk-links {
+  margin-bottom: 0;
+}
+
+.talk-list {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(22, 129, 121, 0.2);
+}
+
+.talk-photo-strip {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.talk-photo-strip img {
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  border: 1px solid rgba(22, 129, 121, 0.18);
+  border-radius: 8px;
 }
 
 @media (max-width: 767.98px) {
   .research-card {
+    grid-template-columns: 1fr;
+  }
+
+  .research-card img {
+    height: 230px;
+  }
+
+  .cv-timeline article,
+  .cv-card,
+  .talk-card.featured {
+    grid-template-columns: 1fr;
+  }
+
+  .cv-timeline time {
+    white-space: normal;
+  }
+
+  .talk-card.featured img {
+    height: 220px;
+    min-height: 0;
+  }
+
+  .talk-photo-strip {
     grid-template-columns: 1fr;
   }
 }

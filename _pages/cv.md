@@ -2,35 +2,75 @@
 layout: page
 title: CV
 permalink: /cv/
-description: education, selected awards, and service.
+description: dynamically generated CV with a printable PDF view.
 nav: true
 nav_order: 6
 ---
 
-## Education
+{% assign cv = site.data.cv %}
 
-- **Ph.D. in Civil and Environmental Engineering**, The Hong Kong Polytechnic University, Hong Kong SAR, 2024-present.
-- **Ph.D. in Transportation Engineering**, Tongji University, Shanghai, China, 2022-present.
-- **B.S. in Civil Engineering**, Tongji University, Shanghai, China, 2018-2022. GPA: 4.84/5.00, rank: 1/21.
+<div class="cv-hero">
+  <p>{{ cv.basics.summary }}</p>
+  <p class="cv-updated">Last updated: {{ cv.basics.updated }}</p>
+  <div class="cv-actions">
+    <a class="btn btn-sm z-depth-0" href="/assets/pdf/Tong_Nie_CV.pdf">Download PDF</a>
+    <a class="btn btn-sm z-depth-0" href="/cv-print/">Printable source</a>
+  </div>
+</div>
 
-## Awards
+<object class="cv-pdf-frame" data="/assets/pdf/Tong_Nie_CV.pdf" type="application/pdf">
+  <p>The generated PDF can be downloaded from <a href="/assets/pdf/Tong_Nie_CV.pdf">this link</a>.</p>
+</object>
 
-- PolyU Best RPG Student of the Year Award, 2025.
-- PolyU Presidential PhD Fellowship Scheme, 2024.
-- National Scholarship for PhD Students, 2025.
-- YAN Kefei Transportation Development Fund Merit Scholarship, 2023.
-- Outstanding Doctoral Freshman Scholarship of Tongji University, 2022.
-- Shanghai Outstanding Graduates, 2022.
-- China Harbour Scholarship, 2021.
-- Honorable Mention, Interdisciplinary Contest in Modeling, 2021.
-- Saint-Gobain Scholarship Grand Prize, 2020.
+<section class="cv-section">
+  <h2>Education</h2>
+  <div class="cv-timeline">
+    {% for item in cv.education %}
+      <article>
+        <div>
+          <strong>{{ item.degree }}</strong>
+          <span>{{ item.institution }}, {{ item.location }}</span>
+          {% if item.details %}<span>{{ item.details }}</span>{% endif %}
+        </div>
+        <time>{{ item.date }}</time>
+      </article>
+    {% endfor %}
+  </div>
+</section>
 
-## Service
+<section class="cv-section">
+  <h2>Awards and Honors</h2>
+  <div class="cv-timeline compact">
+    {% for item in cv.awards %}
+      <article>
+        <div><strong>{{ item.name }}</strong></div>
+        <time>{{ item.date }}</time>
+      </article>
+    {% endfor %}
+  </div>
+</section>
 
-- Program Committee member, AAAI 2026 Main Track, AI Alignment Track, and Demo Track.
-- Invited session co-chair, IEEE ITSC 2025.
-- Reviewer for transportation, data mining, machine learning, and intelligent transportation venues.
+<section class="cv-section">
+  <h2>Research Funding</h2>
+  {% for item in cv.funding %}
+    <article class="cv-card">
+      <strong>{{ item.title }}</strong>
+      <span>{{ item.agency }} · {{ item.role }} · {{ item.amount }} · {{ item.period }}</span>
+    </article>
+  {% endfor %}
+</section>
 
-## Research Funding
-
-- Principal Investigator, National Natural Science Foundation of China's Fundamental Research Program for Young Students, "Automated Generation of Autonomous Driving Test Scenarios and Adversarial Testing Methods", 2025-2027.
+<section class="cv-section">
+  <h2>Selected Talks and Presentations</h2>
+  <div class="cv-timeline compact">
+    {% for item in cv.talks %}
+      <article>
+        <div>
+          <strong>{{ item.title }}</strong>
+          <span>{{ item.venue }}, {{ item.location }}</span>
+        </div>
+        <time>{{ item.date }}</time>
+      </article>
+    {% endfor %}
+  </div>
+</section>

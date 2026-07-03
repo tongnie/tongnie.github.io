@@ -8,6 +8,8 @@ on:
       - main
     paths:
       - "assets/**"
+      - "galleries/**"
+      - "images/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -59,6 +61,23 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      - name: Generate CV PDF
+        run: |
+          mkdir -p _site/assets/pdf
+          CHROME="$(command -v google-chrome || command -v chromium-browser || command -v chromium || true)"
+          if [ -z "$CHROME" ]; then
+            sudo apt-get update
+            sudo apt-get install -y chromium-browser || sudo apt-get install -y chromium
+            CHROME="$(command -v chromium-browser || command -v chromium)"
+          fi
+          "$CHROME" \
+            --headless \
+            --no-sandbox \
+            --disable-gpu \
+            --run-all-compositor-stages-before-draw \
+            --virtual-time-budget=10000 \
+            --print-to-pdf="$PWD/_site/assets/pdf/Tong_Nie_CV.pdf" \
+            "file://$PWD/_site/cv-print/index.html"
       - name: Purge unused CSS
         run: |
           npm install -g purgecss

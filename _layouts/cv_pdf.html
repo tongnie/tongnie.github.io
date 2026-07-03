@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.data.cv.basics.name }} - CV</title>
+    <style>
+      @page {
+        size: A4;
+        margin: 16mm 17mm;
+      }
+
+      body {
+        margin: 0;
+        color: #1f2933;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10.5pt;
+        line-height: 1.42;
+      }
+
+      a {
+        color: #147a83;
+        text-decoration: none;
+      }
+
+      h1 {
+        margin: 0 0 0.15rem;
+        color: #15344f;
+        font-size: 25pt;
+        letter-spacing: 0;
+      }
+
+      h2 {
+        margin: 1.05rem 0 0.35rem;
+        padding-bottom: 0.12rem;
+        border-bottom: 1px solid #c9d7dd;
+        color: #147a83;
+        font-size: 12pt;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }
+
+      p {
+        margin: 0.2rem 0;
+      }
+
+      ul {
+        margin: 0.1rem 0 0;
+        padding-left: 1rem;
+      }
+
+      li {
+        margin: 0.12rem 0;
+      }
+
+      .meta {
+        color: #52616b;
+        font-size: 9.5pt;
+      }
+
+      .summary {
+        margin-top: 0.45rem;
+        color: #334e68;
+        font-size: 10.5pt;
+      }
+
+      .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.25rem;
+        margin-top: 0.45rem;
+      }
+
+      .chip {
+        padding: 0.12rem 0.42rem;
+        border: 1px solid #d7eadf;
+        border-radius: 999px;
+        background: #f1faf7;
+        color: #176b5f;
+        font-size: 8.6pt;
+      }
+
+      .item {
+        break-inside: avoid;
+        margin: 0.28rem 0 0.42rem;
+      }
+
+      .item-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+      }
+
+      .item-title {
+        font-weight: 700;
+      }
+
+      .item-date {
+        min-width: 5.5rem;
+        color: #52616b;
+        text-align: right;
+        white-space: nowrap;
+      }
+
+      .muted {
+        color: #52616b;
+      }
+
+      .pub-title {
+        font-weight: 700;
+      }
+    </style>
+  </head>
+  <body>
+    {% assign cv = site.data.cv %}
+    <header>
+      <h1>{{ cv.basics.name }}</h1>
+      <div class="meta">
+        {{ cv.basics.title }} · {{ cv.basics.affiliation }} · {{ cv.basics.location }}<br>
+        <a href="mailto:{{ cv.basics.email }}">{{ cv.basics.email }}</a> ·
+        <a href="{{ cv.basics.website }}">{{ cv.basics.website }}</a> ·
+        <a href="{{ cv.basics.scholar }}">Google Scholar</a><br>
+        Last updated: {{ cv.basics.updated }}
+      </div>
+      <p class="summary">{{ cv.basics.summary }}</p>
+      <div class="chips">
+        {% for interest in cv.interests %}
+          <span class="chip">{{ interest }}</span>
+        {% endfor %}
+      </div>
+    </header>
+
+    <section>
+      <h2>Education</h2>
+      {% for item in cv.education %}
+        <div class="item">
+          <div class="item-head">
+            <div>
+              <span class="item-title">{{ item.degree }}</span>, {{ item.institution }}
+              <div class="muted">{{ item.location }}{% if item.details %} · {{ item.details }}{% endif %}</div>
+            </div>
+            <div class="item-date">{{ item.date }}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2>Selected Publications</h2>
+      <ul>
+        {% for item in cv.selected_publications %}
+          <li><span class="pub-title">{{ item.title }}</span>. <span class="muted">{{ item.venue }}{% if item.role %}; {{ item.role }}{% endif %}.</span></li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Awards and Honors</h2>
+      {% for item in cv.awards %}
+        <div class="item-head item">
+          <div>{{ item.name }}</div>
+          <div class="item-date">{{ item.date }}</div>
+        </div>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2>Research Funding</h2>
+      {% for item in cv.funding %}
+        <div class="item">
+          <div class="item-head">
+            <div><span class="item-title">{{ item.title }}</span><br><span class="muted">{{ item.agency }} · {{ item.role }} · {{ item.amount }}</span></div>
+            <div class="item-date">{{ item.period }}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2>Service</h2>
+      <ul>
+        {% for item in cv.service %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Invited Talks and Presentations</h2>
+      <ul>
+        {% for item in cv.talks %}
+          <li><span class="pub-title">{{ item.title }}</span>. <span class="muted">{{ item.venue }}, {{ item.location }}, {{ item.date }}.</span></li>
+        {% endfor %}
+      </ul>
+    </section>
+  </body>
+</html>

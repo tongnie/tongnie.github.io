@@ -6,7 +6,7 @@ subtitle: Ph.D. candidate at <a href="https://www.polyu.edu.hk/">The Hong Kong P
 
 profile:
   align: right
-  image: tong_nie.jpg
+  image: tong_nie_sydney.jpg
   image_circular: false
   more_info: >
     <p class="profile-positioning">Mobility AI researcher building robust, aligned, and human-centered transportation intelligence.</p>

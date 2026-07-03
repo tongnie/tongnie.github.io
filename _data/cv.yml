@@ -1,0 +1,133 @@
+basics:
+  name: Tong Nie
+  title: Ph.D. Student in Mobility AI
+  affiliation: The Hong Kong Polytechnic University / Tongji University
+  location: Hong Kong SAR / Shanghai
+  email: tong.nie@connect.polyu.hk
+  website: https://tongnie.github.io
+  scholar: https://scholar.google.com/citations?user=eMW6EsoAAAAJ
+  updated: July 2026
+  summary: Mobility AI researcher building robust, aligned, and human-centered transportation intelligence.
+
+interests:
+  - Safe autonomous driving
+  - Large language models for transportation
+  - Spatiotemporal learning
+  - Urban AI and intelligent transportation systems
+
+education:
+  - degree: Ph.D. in Civil and Environmental Engineering
+    institution: The Hong Kong Polytechnic University
+    location: Hong Kong SAR
+    date: Sep. 2024 - Present
+    details: Dual Ph.D. program.
+  - degree: Ph.D. in Traffic Engineering
+    institution: Tongji University
+    location: Shanghai, China
+    date: Sep. 2022 - Present
+    details: College of Transportation Engineering.
+  - degree: B.S. in Civil Engineering
+    institution: Tongji University
+    location: Shanghai, China
+    date: Sep. 2018 - Jun. 2022
+    details: GPA 4.84/5.00; ranked 1/21.
+
+selected_publications:
+  - title: "From Attacks to Curricula: Learnability-Guided Adversarial Training for Safe Autonomous Driving"
+    venue: arXiv preprint, 2026
+    role: Co-first author
+  - title: "EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents"
+    venue: arXiv preprint, 2026
+    role: First author
+  - title: "ADV-0: Closed-Loop Min-Max Adversarial Training for Long-Tail Robustness in Autonomous Driving"
+    venue: arXiv preprint, 2026
+    role: First author
+  - title: "Steerable Adversarial Scenario Generation through Test-Time Preference Alignment"
+    venue: ICLR 2026
+    role: First author
+  - title: "Collaborative Imputation of Urban Time Series through Cross-City Meta-Learning"
+    venue: IEEE TKDE, 2026
+    role: First author
+  - title: "Exploring the Roles of Large Language Models in Reshaping Transportation Systems"
+    venue: Artificial Intelligence for Transportation, 2025
+    role: First author
+  - title: "LLM-empowered Joint Estimation and Prediction of City-wide Delivery Demand"
+    venue: Transportation Research Part E, 2025
+    role: First author
+  - title: "Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning"
+    venue: AAAI 2025
+    role: Co-author
+  - title: "ImputeFormer: Low Rankness-Induced Transformers for Generalizable Spatiotemporal Imputation"
+    venue: KDD 2024 Oral
+    role: First author
+  - title: "Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner"
+    venue: Transportation Research Part C, 2024
+    role: First author
+  - title: "Channel-Aware Low-Rank Adaptation in Time Series Forecasting"
+    venue: CIKM 2024
+    role: First author
+
+awards:
+  - name: PolyU Best Research Postgraduate Student of the Year Award
+    date: Apr. 2025
+  - name: National Scholarship for Ph.D. Students
+    date: Oct. 2025
+  - name: PolyU Presidential PhD Fellowship Scheme
+    date: Jan. 2024
+  - name: YAN Kefei Transportation Development Fund Merit Scholarship
+    date: 2023
+  - name: Outstanding Doctoral Freshman Scholarship of Tongji University
+    date: 2022
+  - name: Shanghai Outstanding Graduate
+    date: 2022
+  - name: China Harbour Scholarship
+    date: 2021
+  - name: Honorable Mention, Interdisciplinary Contest in Modeling
+    date: 2021
+  - name: Saint-Gobain Scholarship Grand Prize
+    date: 2020
+
+funding:
+  - title: Automated Generation of Autonomous Driving Test Scenarios and Adversarial Testing Methods
+    agency: National Natural Science Foundation of China's Fundamental Research Program for Young Students
+    role: Principal Investigator
+    period: Jan. 2025 - Dec. 2027
+    amount: 300,000 CNY
+
+service:
+  - Program Committee member, AAAI 2026 Main Track, AI Alignment Track, and Demo Track.
+  - Invited Session Co-Chair, "Innovative Applications of Large Language Models in Multimodal Transportation Systems", IEEE ITSC 2025.
+  - Reviewer for Transportation Science, Transportation Research Part C/E, IEEE TITS, Communications in Transportation Research, IEEE TKDE, KDD, ICML, CVPR, ECCV, AAAI, and related venues.
+  - Teaching Assistant, Urban Transport Planning - Theory and Practice, The Hong Kong Polytechnic University, 2024-2025.
+  - Student Helper, Hong Kong Society for Transportation Studies Conference, 2024.
+  - Student Member, IEEE and AAAI.
+
+talks:
+  - title: Steerable Adversarial Scenario Generation through Test-Time Preference Alignment
+    venue: Conference Presentation, ICLR 2026
+    location: Rio de Janeiro, Brazil
+    date: Apr. 2026
+  - title: Exploring the Roles of LLMs in Transportation Systems
+    venue: Invited Talk, TRZ Youth Forum
+    location: Online
+    date: Apr. 2025
+  - title: Collaborative Time Series Imputation through Cross-city Meta Learning
+    venue: Poster Presentation, ICLR 2025
+    location: Singapore
+    date: Apr. 2025
+  - title: LLM-empowered Joint Estimation and Prediction of City-wide Delivery Demand
+    venue: Poster Presentation, 104th TRB Annual Meeting
+    location: Washington, DC
+    date: Jan. 2025
+  - title: Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner
+    venue: Poster Presentation, HKSTS 2024
+    location: Hong Kong SAR
+    date: Dec. 2024
+  - title: Channel-Aware Low-Rank Adaptation in Time Series Forecasting
+    venue: Poster Presentation, CIKM 2024
+    location: Boise, USA
+    date: Oct. 2024
+  - title: ImputeFormer
+    venue: Oral Presentation, KDD 2024
+    location: Barcelona, Spain
+    date: Aug. 2024

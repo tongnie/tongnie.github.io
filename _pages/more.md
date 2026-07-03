@@ -7,9 +7,10 @@ dropdown: true
 children:
   - title: service
     permalink: /services/
+  - title: talks
+    permalink: /talks/
   - title: gallery
     permalink: /gallery/
   - title: notes
     permalink: /blog/
 ---
-

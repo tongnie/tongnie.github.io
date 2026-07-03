@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on preference-aligned adversarial scenario generation, [SAGE](https://arxiv.org/abs/2509.20102), is available on arXiv.
+✈️ Our work on preference-aligned adversarial scenario generation, [SAGE](https://arxiv.org/abs/2509.20102), is available on arXiv.

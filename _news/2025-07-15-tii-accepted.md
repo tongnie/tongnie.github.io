@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on graph-based large-scale spatiotemporal forecasting has been accepted by **IEEE Transactions on Industrial Informatics**.
+🎉 Our work on graph-based large-scale spatiotemporal forecasting has been accepted by **IEEE Transactions on Industrial Informatics**.

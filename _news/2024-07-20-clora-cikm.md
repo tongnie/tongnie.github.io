@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on channel-aware low-rank adaptation has been accepted by **CIKM 2024**.
+✈️ Our work on channel-aware low-rank adaptation has been accepted by **CIKM 2024**.

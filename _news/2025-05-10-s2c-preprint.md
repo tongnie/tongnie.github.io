@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on [LLM-based online safety-critical scenario generation](https://arxiv.org/abs/2505.00972) is available on arXiv.
+✈️ Our paper on [LLM-based online safety-critical scenario generation](https://arxiv.org/abs/2505.00972) is available on arXiv.

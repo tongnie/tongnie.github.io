@@ -2,11 +2,11 @@
 layout: page
 title: notes
 permalink: /blog/
-description: research notes, talks, and longer-form writing.
+description: research notes and longer-form writing.
 nav: false
 ---
 
-This page replaces the older blog section with a cleaner place for research notes and public-facing writing. I will use it for longer explanations of ongoing ideas, reading notes, and technical reflections that do not fit naturally into the publication list.
+This page is a lighter place for research notes, reading reflections, and longer explanations that do not fit naturally into the publication list. For conference and invited-talk materials, see the dedicated [talks page](/talks/).
 
 <div class="note-list">
   <section>

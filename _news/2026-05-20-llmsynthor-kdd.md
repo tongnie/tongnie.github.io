@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our collaborative work [LLMSynthor: Macro-Aligned Micro-Records Synthesis with Large Language Models](https://arxiv.org/abs/2505.14752) has been accepted by **KDD 2026**.
+✈️ Our collaborative work [LLMSynthor: Macro-Aligned Micro-Records Synthesis with Large Language Models](https://arxiv.org/abs/2505.14752) has been accepted by **KDD 2026**.
