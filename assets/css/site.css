@@ -133,6 +133,26 @@ a,
   box-shadow: 0 8px 24px rgba(21, 52, 79, 0.08);
 }
 
+.opportunity-callout {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  margin: 1.15rem 0 1.65rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid rgba(217, 107, 60, 0.24);
+  border-left: 4px solid var(--tn-coral);
+  border-radius: 8px;
+  background: var(--tn-sky);
+  color: var(--tn-ink-soft);
+  line-height: 1.55;
+}
+
+.opportunity-icon {
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
 @media (min-width: 768px) {
   .publications ol.bibliography li .row > .abbr {
     flex: 0 0 34%;
