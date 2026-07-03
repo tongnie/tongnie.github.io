@@ -38,6 +38,6 @@ I am also broadly interested in geospatial AI, urban computing, sustainability s
 <div class="opportunity-callout">
   <div class="opportunity-icon" aria-hidden="true">📣</div>
   <div>
-    <strong>Postdoc opportunities:</strong> I am actively seeking postdoctoral opportunities starting in <strong>Fall 2027</strong> or <strong>Spring 2028</strong>, especially in North America and Europe. I would be delighted to connect with groups working on mobility AI, safe autonomous driving, spatiotemporal intelligence, and human-centered AI. Please feel free to <a href="mailto:tong.nie@connect.polyu.hk">reach out</a>.
+    <strong>Postdoc opportunities:</strong> I am actively seeking postdoctoral opportunities starting in <strong>Fall 2027</strong> or <strong>Spring 2028</strong>, especially in North America and Europe. I would be delighted to connect with groups working on robotics, physical AI, embodied AI, autonomous driving, and mobility AI. Please feel free to <a href="mailto:tong.nie@connect.polyu.hk">reach out</a>.
   </div>
 </div>
