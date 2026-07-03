@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 description: education, selected awards, and service.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Education

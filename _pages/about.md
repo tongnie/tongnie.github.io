@@ -9,9 +9,7 @@ profile:
   image: tong_nie.jpg
   image_circular: false
   more_info: >
-    <p>PolyU Mobility AI Lab</p>
-    <p>TOPS, Tongji University</p>
-    <p>Hong Kong SAR / Shanghai</p>
+    <p class="profile-positioning">Mobility AI researcher building robust, aligned, and human-centered transportation intelligence.</p>
 
 selected_papers: true
 social: true

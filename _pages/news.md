@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /news/
-description: selected updates in reverse chronological order.
+description: full update archive in reverse chronological order.
 nav: true
 nav_order: 4
 ---
