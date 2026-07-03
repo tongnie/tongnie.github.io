@@ -1,0 +1,27 @@
+/*
+ * Site-specific al-folio fixes.
+ * Keep this file small so upstream theme updates remain easy to audit.
+ */
+
+.navbar .navbar-toggler-main,
+.navbar .navbar-toggler-main .icon-bar {
+  visibility: visible;
+}
+
+@media (min-width: 576px) {
+  .navbar.navbar-expand-sm .navbar-collapse-main {
+    display: flex !important;
+    visibility: visible !important;
+    flex-basis: auto;
+    width: auto;
+  }
+
+  .navbar.navbar-expand-sm .navbar-menu-list {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .navbar.navbar-expand-sm .navbar-toggler-main {
+    display: none !important;
+  }
+}
