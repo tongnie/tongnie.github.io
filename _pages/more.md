@@ -11,6 +11,4 @@ children:
     permalink: /talks/
   - title: gallery
     permalink: /gallery/
-  - title: notes
-    permalink: /blog/
 ---
