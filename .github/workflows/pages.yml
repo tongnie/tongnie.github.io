@@ -74,6 +74,8 @@ jobs:
             --headless \
             --no-sandbox \
             --disable-gpu \
+            --no-pdf-header-footer \
+            --print-to-pdf-no-header \
             --run-all-compositor-stages-before-draw \
             --virtual-time-budget=10000 \
             --print-to-pdf="$PWD/_site/assets/pdf/Tong_Nie_CV.pdf" \
