@@ -11,7 +11,7 @@ My research can be organized into four connected directions. They all study how 
 
 <div class="research-grid">
   <section class="research-card">
-    <img src="/assets/img/publication_preview/SAGE.png" alt="Safe autonomous driving preview">
+    <img src="/assets/img/project_preview/project_safe_driving.png" alt="Safe autonomous driving preview">
     <div>
       <h2>Safe Autonomous Driving</h2>
       <p>I study how to generate, search, and use realistic safety-critical traffic scenarios before autonomous driving systems are deployed. The goal is not only to find failures, but also to convert adversarial cases into training signals that improve long-tail robustness.</p>
@@ -25,7 +25,7 @@ My research can be organized into four connected directions. They all study how 
   </section>
 
   <section class="research-card">
-    <img src="/assets/img/publication_preview/MobEvolve-cropped.png" alt="LLM agents for mobility preview">
+    <img src="/assets/img/project_preview/project_llm_agents.png" alt="LLM agents for mobility preview">
     <div>
       <h2>LLM Agents for Mobility</h2>
       <p>I am interested in language models as a new computational layer for transportation: they can encode geospatial semantics, synthesize realistic mobility records, support demand modeling, and coordinate agentic search in complex simulators.</p>
@@ -39,7 +39,7 @@ My research can be organized into four connected directions. They all study how 
   </section>
 
   <section class="research-card">
-    <img src="/assets/img/publication_preview/STINR.png" alt="Spatiotemporal learning preview">
+    <img src="/assets/img/project_preview/project_spatiotemporal.png" alt="Spatiotemporal learning preview">
     <div>
       <h2>Spatiotemporal Learning</h2>
       <p>This direction focuses on learning from sparse, noisy, and incomplete observations in city-scale systems. I develop models that combine low-rank structure, graph inductive bias, Transformers, and implicit neural representations for estimation, imputation, and forecasting.</p>
@@ -52,7 +52,7 @@ My research can be organized into four connected directions. They all study how 
   </section>
 
   <section class="research-card">
-    <img src="/assets/img/publication_preview/TII.png" alt="Urban AI preview">
+    <img src="/assets/img/project_preview/project_urban_ai.png" alt="Urban AI preview">
     <div>
       <h2>Urban AI and Scalable Forecasting</h2>
       <p>I also work on efficient and interpretable modeling for large-scale urban dynamics. This line emphasizes scalable architectures, physical or structural priors, and transferable models that remain practical under real city data constraints.</p>
