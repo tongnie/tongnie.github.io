@@ -1,0 +1,32 @@
+{
+  "basics": {
+    "name": "Tong Nie",
+    "label": "Ph.D. Candidate",
+    "image": "",
+    "email": "tong.nie@connect.polyu.hk",
+    "summary": "Ph.D. candidate at The Hong Kong Polytechnic University and Tongji University. Research interests include safe autonomous driving, adversarial learning, spatiotemporal learning, and large language models for transportation.",
+    "location": {
+      "city": "Hong Kong SAR / Shanghai",
+      "countryCode": "CN"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=eMW6EsoAAAAJ"
+      },
+      {
+        "network": "GitHub",
+        "username": "tongnie",
+        "url": "https://github.com/tongnie"
+      }
+    ]
+  },
+  "education": [],
+  "work": [],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "projects": []
+}

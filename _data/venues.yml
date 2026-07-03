@@ -1,0 +1,55 @@
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#4f46e5"
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#0f766e"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#2563eb"
+
+"KDD":
+  url: https://kdd.org/
+  color: "#7c3aed"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#0891b2"
+
+"CIKM":
+  url: https://cikm2024.org/
+  color: "#ca8a04"
+
+"ITSC":
+  url: https://ieee-itsc.org/
+  color: "#047857"
+
+"TKDE":
+  url: https://www.computer.org/csdl/journal/tk
+  color: "#334155"
+
+"TITS":
+  url: https://ieee-itss.org/pub/t-its/
+  color: "#334155"
+
+"TII":
+  url: https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics
+  color: "#334155"
+
+"AIT":
+  url: https://www.sciencedirect.com/journal/artificial-intelligence-for-transportation
+  color: "#0f766e"
+
+"TRE":
+  url: https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review
+  color: "#64748b"
+
+"TRC":
+  url: https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies
+  color: "#64748b"
