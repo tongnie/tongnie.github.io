@@ -25,6 +25,9 @@ nav: false
 
 - AAAI 2026 Main Track, AI Alignment Track, and Demonstration Track.
 - ACML 2024 and 2025.
+- CoRL 2026.
+- AAAI 2027.
+- EMNLP 2026.
 - KDD 2024; KDD 2026 AI4Science Track.
 - TRB Annual Meeting 2025 and 2026.
 - ISTDM 2025.
@@ -35,6 +38,7 @@ nav: false
 **Journal reviewing**
 
 - IEEE Transactions on Intelligent Transportation Systems.
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - Transportation Research Part C: Emerging Technologies.
 - Transportation Research Part E: Logistics and Transportation Review.
 - IEEE Transactions on Knowledge and Data Engineering.

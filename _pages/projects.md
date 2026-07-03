@@ -15,6 +15,7 @@ My research can be organized into four connected directions. They all study how 
     <div>
       <h2>Safe Autonomous Driving</h2>
       <p>I study how to generate, search, and use realistic safety-critical traffic scenarios before autonomous driving systems are deployed. The goal is not only to find failures, but also to convert adversarial cases into training signals that improve long-tail robustness.</p>
+      <p class="project-funding">Funded by the NSFC Fundamental Research Program for Young Students, <strong>300,000 RMB</strong>, 2025-2027.</p>
       <ul class="work-list">
         <li><a href="https://arxiv.org/abs/2509.20102">SAGE</a>: preference-aligned adversarial scenario generation for steerable testing.</li>
         <li><a href="https://arxiv.org/abs/2606.03678">EvoDrive</a>: Pareto evolution with self-improving LLM agents.</li>

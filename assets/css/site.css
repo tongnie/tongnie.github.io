@@ -247,6 +247,17 @@ a,
   padding-left: 1.1rem;
 }
 
+.project-funding {
+  display: inline-block;
+  margin: 0.2rem 0 0.75rem;
+  padding: 0.45rem 0.65rem;
+  border-left: 3px solid var(--tn-gold);
+  border-radius: 0 6px 6px 0;
+  background: var(--tn-sky);
+  color: var(--tn-ink-soft);
+  font-size: 0.92rem;
+}
+
 .gallery-grid {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
@@ -361,6 +372,7 @@ a,
   grid-column: 1 / -1;
   display: grid;
   grid-template-columns: minmax(320px, 44%) 1fr;
+  align-items: stretch;
 }
 
 .talk-card img {
@@ -370,9 +382,14 @@ a,
   background: var(--tn-sky);
 }
 
+.talk-card.portrait img {
+  height: 280px;
+  object-fit: contain;
+}
+
 .talk-card.featured img {
-  height: 100%;
-  min-height: 290px;
+  height: 310px;
+  min-height: 0;
 }
 
 .talk-card div {
@@ -400,19 +417,41 @@ a,
   border-top: 1px solid rgba(22, 129, 121, 0.2);
 }
 
+.talk-moments {
+  margin-top: 1.5rem;
+}
+
+.talk-moments h2 {
+  margin-bottom: 0.75rem;
+}
+
 .talk-photo-strip {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
   gap: 0.75rem;
-  margin-top: 1.25rem;
+}
+
+.talk-photo-strip figure {
+  margin: 0;
+  padding: 0.65rem;
+  border: 1px solid rgba(22, 129, 121, 0.18);
+  border-radius: 8px;
+  background: var(--global-card-bg-color);
 }
 
 .talk-photo-strip img {
   width: 100%;
-  height: 170px;
-  object-fit: cover;
-  border: 1px solid rgba(22, 129, 121, 0.18);
-  border-radius: 8px;
+  max-height: 360px;
+  object-fit: contain;
+  border-radius: 6px;
+  background: var(--tn-sky);
+}
+
+.talk-photo-strip figcaption {
+  margin-top: 0.45rem;
+  color: var(--global-text-color-light);
+  font-size: 0.88rem;
+  line-height: 1.4;
 }
 
 @media (max-width: 767.98px) {

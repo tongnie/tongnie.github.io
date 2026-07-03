@@ -10,6 +10,25 @@ This page collects invited talks, conference presentations, posters, and a few t
 
 <div class="talk-grid">
   <article class="talk-card featured">
+    <img src="/images/iclr-2026-sage-poster.jpg" alt="ICLR 2026 SAGE poster presentation">
+    <div>
+      <span class="talk-date">Apr. 2026 · Rio de Janeiro</span>
+      <h2>Steerable Adversarial Scenario Generation through Test-Time Preference Alignment</h2>
+      <p>Poster presentation at ICLR 2026 for SAGE, where I presented our preference-aligned adversarial scenario generation work for safer autonomous driving.</p>
+      <p class="talk-links"><a href="https://tongnie.github.io/SAGE/">Project</a></p>
+    </div>
+  </article>
+
+  <article class="talk-card portrait">
+    <img src="/images/itsc-2025-session-chair.jpg" alt="IEEE ITSC 2025 invited session chair">
+    <div>
+      <span class="talk-date">Nov. 2025 · Gold Coast</span>
+      <h2>IEEE ITSC 2025 Invited Session Co-Chair</h2>
+      <p>Session co-chair for the invited session on innovative applications of large language models in multimodal transportation systems.</p>
+    </div>
+  </article>
+
+  <article class="talk-card">
     <img src="/images/167806f779cda77821227c26ae6c37a.jpg" alt="ICLR 2025 poster presentation">
     <div>
       <span class="talk-date">Apr. 2025 · Singapore</span>
@@ -70,11 +89,27 @@ This page collects invited talks, conference presentations, posters, and a few t
   </article>
 </div>
 
-<div class="talk-photo-strip" aria-label="conference moments">
-  <img src="/images/22070e8634b3d436882b2bfd0d18c22.jpg" alt="ICLR 2025 conference moment">
-  <img src="/images/jiaotongbang-talk.png" alt="TRZ Youth Forum talk screenshot">
-  <img src="/images/28ccde17a68b8df37fc43ce89c91b96.jpg" alt="KDD 2024 conference moment">
-</div>
+<section class="talk-moments">
+  <h2>Conference Moments</h2>
+  <div class="talk-photo-strip" aria-label="conference moments">
+    <figure>
+      <img src="/images/iclr-2026-yann-lecun.jpg" alt="Meeting Yann LeCun at ICLR 2026">
+      <figcaption>ICLR 2026, Rio de Janeiro, with Prof. Yann LeCun.</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/22070e8634b3d436882b2bfd0d18c22.jpg" alt="Meeting Kaiming He at ICLR 2025">
+      <figcaption>ICLR 2025, Singapore, with Prof. Kaiming He.</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/jiaotongbang-talk.png" alt="TRZ Youth Forum talk screenshot">
+      <figcaption>TRZ Youth Forum invited talk on LLMs for transportation.</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/28ccde17a68b8df37fc43ce89c91b96.jpg" alt="KDD 2024 conference moment">
+      <figcaption>KDD 2024, Barcelona, after the ImputeFormer oral presentation.</figcaption>
+    </figure>
+  </div>
+</section>
 
 <section class="talk-list">
   <h2>More Presentations</h2>
