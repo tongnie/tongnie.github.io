@@ -58,6 +58,7 @@ nav: false
 - Journal of Big Data.
 - Engineering Applications of Artificial Intelligence.
 - Energy.
+- IEEE Intelligent Systems.
 
 ## Teaching and Membership
 
