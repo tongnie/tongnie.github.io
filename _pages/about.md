@@ -25,7 +25,7 @@ latest_posts:
   limit: 0
 ---
 
-Hi, I am **Tong Nie**, a fourth-year Ph.D. student jointly at The Hong Kong Polytechnic University and Tongji University, advised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Wei Ma](http://weima171.com/). My doctoral research has been supported by the PolyU Presidential PhD Fellowship Scheme and the National Natural Science Foundation of China.
+Hi, I am **Tong Nie**, a fourth-year Ph.D. student jointly at The Hong Kong Polytechnic University and Tongji University, advised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Wei Ma](http://weima171.com/). I am currently a visiting researcher at The University of Hong Kong, working with [Prof. Xintao Yan](https://www.civil.hku.hk/pp-yanxt.html). My doctoral research has been supported by the PolyU Presidential PhD Fellowship Scheme and the National Natural Science Foundation of China.
 
 My research develops learning-based methods for **transportation systems**, with a current focus on safe autonomous driving, adversarial scenario generation, spatiotemporal modeling, and LLM/agent-based decision support. I like problems where models must do more than fit data: they need to reason under distribution shift, expose failure modes, and remain useful in safety-critical systems.
 
