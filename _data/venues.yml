@@ -2,6 +2,14 @@
   url: https://arxiv.org/
   color: "#b31b1b"
 
+"CoRL":
+  url: https://www.corl.org/
+  color: "#0f766e"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#7c3aed"
+
 "ICLR":
   url: https://iclr.cc/
   color: "#4f46e5"
